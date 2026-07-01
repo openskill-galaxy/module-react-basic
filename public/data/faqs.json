@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "react-faq-001",
+    "question": "React和Vue有什么区别？",
+    "answer": "React更灵活自由选择库，Vue提供更多内置功能。两者都是优秀的框架。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-002",
+    "question": "学习React需要什么前置知识？",
+    "answer": "需要掌握HTML、CSS和JavaScript基础，尤其是ES6语法。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-003",
+    "question": "什么是JSX？",
+    "answer": "JSX是JavaScript XML，是React的语法扩展，允许在JS中写类似HTML的代码。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-004",
+    "question": "函数组件和类组件哪个更好？",
+    "answer": "函数组件配合Hooks是React推荐的方式，更简洁且易于复用逻辑。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-005",
+    "question": "state和props有什么区别？",
+    "answer": "state是组件的内部状态，props是外部传入的只读属性。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-006",
+    "question": "什么是虚拟DOM？",
+    "answer": "虚拟DOM是真实DOM的JavaScript表示，React通过比较虚拟DOM减少真实DOM操作。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-007",
+    "question": "useEffect的依赖数组怎么用？",
+    "answer": "依赖数组控制useEffect的执行时机。空数组只在挂载时执行，有依赖时依赖变化才执行。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-008",
+    "question": "key属性为什么重要？",
+    "answer": "key帮助React识别列表项的变化，提高渲染性能并避免状态错误。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-009",
+    "question": "什么是受控组件？",
+    "answer": "受控组件的值由React state控制，通过onChange更新状态。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-010",
+    "question": "React Router怎么配置？",
+    "answer": "使用BrowserRouter包裹应用，Routes和Route定义路径组件映射。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-011",
+    "question": "Zustand和Redux区别？",
+    "answer": "Zustand更轻量简洁，无需Provider包裹；Redux更成熟，生态更丰富。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-012",
+    "question": "自定义Hook是什么？",
+    "answer": "自定义Hook是复用状态逻辑的函数，以use开头，内部可调用其他Hook。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-013",
+    "question": "useRef有什么用？",
+    "answer": "useRef创建可变的引用对象，可用于访问DOM元素或存储不触发渲染的值。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-014",
+    "question": "React.memo的作用？",
+    "answer": "React.memo高阶组件使组件在props不变时跳过重新渲染。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-015",
+    "question": "useCallback和useMemo分别用在哪？",
+    "answer": "useCallback记忆函数引用，useMemo记忆计算结果，都用于性能优化。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-016",
+    "question": "什么是错误边界？",
+    "answer": "错误边界是捕获子组件渲染错误并显示降级UI的组件。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-017",
+    "question": "React 18有哪些新特性？",
+    "answer": "自动批处理、transitions、Suspense改进、并发模式等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-018",
+    "question": "useReducer什么时候用？",
+    "answer": "当状态逻辑复杂、多个状态相关、下一个状态依赖前一个时使用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-019",
+    "question": "React中怎么做表单校验？",
+    "answer": "受控组件结合onChange实时校验，onSubmit最终校验，或使用React Hook Form。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-020",
+    "question": "什么是一致性问题？",
+    "answer": "同构应用中服务端和客户端渲染结果不同导致的问题。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-021",
+    "question": "怎么学习React？",
+    "answer": "先学核心概念（组件、JSX、state、props），然后Hooks、Router、状态管理，最后项目实战。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-022",
+    "question": "React Native和React的关系？",
+    "answer": "React Native用React语法开发移动端应用，共享部分概念但平台API不同。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-023",
+    "question": "Next.js是什么？",
+    "answer": "Next.js是React全栈框架，提供SSR、SSG、API路由等功能。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-024",
+    "question": "什么是Hydration？",
+    "answer": "Hydration是客户端激活服务端渲染的HTML，附加事件监听使其可交互。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-025",
+    "question": "CSS方案怎么选？",
+    "answer": "Tailwind适合快速开发，CSS Modules适合大型项目，styled-components适合动态样式。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-026",
+    "question": "React项目怎么部署？",
+    "answer": "Vite构建后部署到GitHub Pages、Vercel或Netlify，注意配置base路径。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-027",
+    "question": "GitHub Pages部署注意什么？",
+    "answer": "vite.config.ts中设置base为仓库名，使用BrowserRouter需配置重定向。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-028",
+    "question": "什么是React DevTools？",
+    "answer": "React DevTools是浏览器扩展，用于检查组件树、state、props和性能。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-029",
+    "question": "React中怎么做代码分割？",
+    "answer": "使用React.lazy和Suspense实现组件级别的按需加载。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-030",
+    "question": "useEffect和useLayoutEffect区别？",
+    "answer": "useLayoutEffect在DOM变更后同步执行，useEffect在渲染完成后异步执行。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-031",
+    "question": "怎么避免useEffect无限循环？",
+    "answer": "正确设置依赖数组，避免在依赖中使用引用类型或函数。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-032",
+    "question": "什么是闭包陷阱？",
+    "answer": "Hook中回调函数捕获了旧的状态值，可以通过useRef或正确设置依赖解决。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-033",
+    "question": "React状态管理方案对比？",
+    "answer": "React自带useState/useReducer/Context，第三方有Zustand/Redux/Jotai等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-034",
+    "question": "React如何优化性能？",
+    "answer": "React.memo、useMemo、useCallback、代码分割、虚拟列表等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-035",
+    "question": "Vite为什么比Webpack快？",
+    "answer": "Vite使用原生ESM开发，按需编译；Webpack需要预打包全部模块。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-036",
+    "question": "怎么迁移到Vite？",
+    "answer": "替换webpack配置为vite.config，调整环境变量语法为import.meta.env。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-037",
+    "question": "React面试常考什么？",
+    "answer": "组件生命周期、Hooks原理、状态管理、性能优化、虚拟DOM等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-038",
+    "question": "什么是Fiber？",
+    "answer": "Fiber是React16的协调引擎，实现增量渲染和任务优先级调度。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-039",
+    "question": "React中怎么处理事件？",
+    "answer": "JSX中直接绑定事件处理函数，React使用合成事件跨浏览器兼容。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-040",
+    "question": "React合成事件的特点？",
+    "answer": "跨浏览器兼容、事件委托到根节点、与原生事件不同。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-041",
+    "question": "React 18自动批处理？",
+    "answer": "React 18将多个状态更新自动合并为一次重渲染，包括Timeout和Promise中。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-042",
+    "question": "useTransition的作用？",
+    "answer": "标记非紧急更新，使UI在状态变化时保持响应。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-043",
+    "question": "什么是Suspense？",
+    "answer": "Suspense是React处理异步操作的组件，显示加载占位直到子组件就绪。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-044",
+    "question": "React错误边界不能捕获什么？",
+    "answer": "事件处理中的错误、异步代码错误、服务端渲染错误。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-045",
+    "question": "Portals解决什么问题？",
+    "answer": "将组件渲染到父DOM树之外，常用于模态框、工具提示等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-046",
+    "question": "ref转发是什么？",
+    "answer": "forwardRef允许父组件获取子组件内部DOM元素的引用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-047",
+    "question": "高阶组件和Hooks哪个好？",
+    "answer": "Hooks更简洁，无嵌套问题；高阶组件在类组件时代流行。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-048",
+    "question": "React中怎么做动画？",
+    "answer": "CSS Transition/Animation、Framer Motion、React Spring。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-049",
+    "question": "React 19有什么新特性？",
+    "answer": "Actions、useOptimistic、useFormStatus、Server Components等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-050",
+    "question": "React Server Components是什么？",
+    "answer": "在服务端渲染的React组件，减少客户端JS体积。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-051",
+    "question": "什么是Server Actions？",
+    "answer": "Next.js中在服务端执行的函数，可直接操作数据库。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-052",
+    "question": "App Router和Pages Router区别？",
+    "answer": "App Router基于文件系统路由，支持Server Components、布局嵌套等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-053",
+    "question": "React中怎么做SEO？",
+    "answer": "使用Next.js SSR/SSG，或prerender.io等工具预渲染。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-054",
+    "question": "React中怎么做国际化？",
+    "answer": "使用react-i18next等库，通过Context提供当前语言。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-055",
+    "question": "React可访问性要注意什么？",
+    "answer": "语义化标签、ARIA属性、键盘导航、焦点管理、色彩对比度。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-056",
+    "question": "React中怎么做测试？",
+    "answer": "Jest+Testing Library进行组件测试，Cypress/Playwright做E2E测试。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-057",
+    "question": "TDD在React中的实践？",
+    "answer": "先写测试描述组件行为，再实现组件代码，确保覆盖率。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-058",
+    "question": "Storybook用来做什么？",
+    "answer": "独立开发和展示组件，支持文档、测试和视觉回归。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-059",
+    "question": "React组件设计原则？",
+    "answer": "单一职责、接口清晰、可复用、可测试。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-060",
+    "question": "怎么设计好的组件Props？",
+    "answer": "最少必要属性、明确的命名、类型定义、默认值。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-061",
+    "question": "React目录结构怎么组织？",
+    "answer": "按功能或类型组织，常见：components/pages/hooks/utils/store。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-062",
+    "question": "Monorepo适合React项目吗？",
+    "answer": "适合多包项目，使用Turborepo/Nx/Lerna管理，共享配置和依赖。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-063",
+    "question": "pnpm和npm有什么区别？",
+    "answer": "pnpm更快、更节省磁盘空间，使用硬链接和符号链接管理依赖。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-064",
+    "question": "TypeScript对React的好处？",
+    "answer": "类型安全、更好的IDE提示、减少运行时错误、文档自解释。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-065",
+    "question": "React中的泛型组件？",
+    "answer": "组件接受类型参数，提高类型复用性。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-066",
+    "question": "React中怎么用SVG？",
+    "answer": "SVG可直接作为组件导入，或使用SVGR转React组件。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-067",
+    "question": "React Helmet做什么？",
+    "answer": "管理页面head标签，设置title、meta、link等SEO相关标签。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-068",
+    "question": "React中怎么做权限控制？",
+    "answer": "路由层面使用路由守卫，元素层面使用条件渲染。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-069",
+    "question": "React项目怎么做错误监控？",
+    "answer": "集成Sentry等错误监控平台，捕获运行时错误和性能数据。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-070",
+    "question": "React性能指标有哪些？",
+    "answer": "FCP、LCP、FID、CLS、TTI等Core Web Vitals指标。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-071",
+    "question": "Lighthouse怎么使用？",
+    "answer": "Chrome DevTools中Lighthouse面板运行审计，获得性能、可访问性等报告。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-072",
+    "question": "React中怎么做数据获取？",
+    "answer": "useEffect手动获取，或使用React Query/SWR等库。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-073",
+    "question": "React Query和SWR怎么选？",
+    "answer": "两者都优秀，React Query功能更全，SWR更轻量。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-074",
+    "question": "React Hook Form优势？",
+    "answer": "减少渲染次数，支持复杂校验，与Zod/Yup集成。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-075",
+    "question": "Zod是什么？",
+    "answer": "TypeScript优先的校验库，与React Hook Form集成良好。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-076",
+    "question": "React中怎么做文件上传？",
+    "answer": "使用FormData和fetch API，可配合拖拽上传组件。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-077",
+    "question": "WebSocket在React中怎么用？",
+    "answer": "useEffect中建立连接，清理函数中断开，使用ref保持实例。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-078",
+    "question": "SSE和WebSocket区别？",
+    "answer": "SSE服务端单向推送，WebSocket双向通信。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-079",
+    "question": "React中怎么做实时更新？",
+    "answer": "使用WebSocket、SSE或轮询，结合状态管理更新UI。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-080",
+    "question": "PWA和React？",
+    "answer": "React应用可通过Vite PWA插件添加离线支持和服务工作者。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-081",
+    "question": "Web Push Notification？",
+    "answer": "结合Service Worker实现推送通知，需要用户授权。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-082",
+    "question": "React中怎么做暗黑模式？",
+    "answer": "CSS变量+Cookie/useState切换主题类名或CSS变量值。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-083",
+    "question": "React Token认证流程？",
+    "answer": "登录获取JWT存储到localStorage，每次请求携带Token。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-084",
+    "question": "OAuth2.0登录流程？",
+    "answer": "跳转第三方登录页，回调获取授权码，换取访问令牌。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-085",
+    "question": "React中怎么做路由守卫？",
+    "answer": "封装ProtectedRoute组件，检查认证状态并重定向。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-086",
+    "question": "useMemo和useCallback区别？",
+    "answer": "useMemo返回记忆化值，useCallback返回记忆化函数。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-087",
+    "question": "React懒加载怎么做？",
+    "answer": "React.lazy(()=>import('./Component'))结合Suspense。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-088",
+    "question": "代码分割的最佳粒度？",
+    "answer": "按路由分割是推荐方式，也可按组件或功能模块分割。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-089",
+    "question": "React打包怎么分析？",
+    "answer": "使用vite-plugin-visualizer或webpack-bundle-analyzer。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-090",
+    "question": "SourceMap的作用？",
+    "answer": "将构建后的代码映射回源代码，便于生产环境调试。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-091",
+    "question": "React中怎么做日志？",
+    "answer": "console方法记录不同级别日志，或集成日志服务上报。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-092",
+    "question": "React错误恢复策略？",
+    "answer": "错误边界捕获UI错误，重试按钮重新加载数据，降级显示。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-093",
+    "question": "React数据流总结？",
+    "answer": "props自上而下传递状态和回调，Context跨层级，Zustand全局管理。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-094",
+    "question": "React的优势？",
+    "answer": "组件化、声明式、高性能、大生态、跨平台。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-095",
+    "question": "React的缺点？",
+    "answer": "学习曲线较陡、频繁更新、JSX初期不适应、选择过多。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-096",
+    "question": "React未来趋势？",
+    "answer": "Server Components、并发模式、React 19 Actions、边缘渲染。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-097",
+    "question": "React应用案例？",
+    "answer": "Facebook、Instagram、Netflix、Airbnb、Uber、WhatsApp Web等。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-098",
+    "question": "React学习资源推荐？",
+    "answer": "官方文档、React Tutorial、React Beta Docs、awesome-react。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-099",
+    "question": "React社区在哪儿？",
+    "answer": "GitHub、Reddit、Discord、Stack Overflow、掘金、思否。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-100",
+    "question": "React版本策略？",
+    "answer": "语义化版本，最新稳定版为React 18，React 19即将发布。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-101",
+    "question": "React升级注意事项？",
+    "answer": "查看升级指南、更新依赖、修复废弃API、测试覆盖。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-102",
+    "question": "React开发者工具链？",
+    "answer": "Vite、ESLint、Prettier、TypeScript、Jest、Storybook。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-103",
+    "question": "什么时候用Context？",
+    "answer": "当多个组件需要共享全局数据时，如主题、用户认证信息。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-104",
+    "question": "Context的问题？",
+    "answer": "Provider值变化会重新渲染所有消费者，需拆分Context。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-105",
+    "question": "Zustand和Context比较？",
+    "answer": "Zustand不引起Provider嵌套，性能更好，API更简洁。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-106",
+    "question": "Jotai和Zustand区别？",
+    "answer": "Jotai原子化状态，Zustand单一store，都轻量。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-107",
+    "question": "Recoil和Zustand区别？",
+    "answer": "Recoil需要Atom根，Zustand无需Provider。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-108",
+    "question": "React和jQuery区别？",
+    "answer": "React声明式，jQuery命令式；React组件化，jQuery操作DOM。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-109",
+    "question": "React和Angular区别？",
+    "answer": "React是库，Angular是完整框架；React灵活，Angular约定多。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-110",
+    "question": "React和Vue共同点？",
+    "answer": "组件化、虚拟DOM、响应式、生态丰富、工具链完善。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-111",
+    "question": "React Native和Flutter？",
+    "answer": "RN使用JS/React，Flutter使用Dart；RN性能依赖桥接。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-112",
+    "question": "React项目中为什么用immutable？",
+    "answer": "方便状态比较、提高性能、避免副作用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-113",
+    "question": "什么是不可变数据？",
+    "answer": "数据创建后不能修改，更新时创建新副本。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-114",
+    "question": "Immer是什么？",
+    "answer": "通过Proxy简化不可变数据操作的库。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-115",
+    "question": "useImmer怎么用？",
+    "answer": "import {useImmer} from 'use-immer'，像useState但直接修改草稿。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-116",
+    "question": "React中事件池是什么？",
+    "answer": "React17前事件对象被重用，需异步访问时调用e.persist()。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-117",
+    "question": "React17和18事件区别？",
+    "answer": "React18的合成事件不再使用事件池，更接近原生事件。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-118",
+    "question": "React中怎么阻止事件冒泡？",
+    "answer": "e.stopPropagation()或e.nativeEvent.stopImmediatePropagation()。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-119",
+    "question": "React中怎么阻止默认行为？",
+    "answer": "e.preventDefault()在事件处理函数中调用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-120",
+    "question": "React事件委托？",
+    "answer": "React17前委托到document，18后委托到root节点。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-121",
+    "question": "React中onChange和onInput？",
+    "answer": "React的onChange在每次输入变化时触发，不同于原生onChange。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-122",
+    "question": "React受控组件性能优化？",
+    "answer": "使用useCallback稳定回调，分离独立输入组件减少重渲染。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-123",
+    "question": "表单组件封装建议？",
+    "answer": "接收name/value/onChange/error/placeholder等标准props。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-124",
+    "question": "React表单提交怎么处理？",
+    "answer": "onSubmit事件中收集表单数据，调用API或执行提交逻辑。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-125",
+    "question": "React中怎么处理文件输入？",
+    "answer": "使用非受控组件，通过ref获取File对象。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-126",
+    "question": "React中带图片的表单？",
+    "answer": "将图片转为Base64或FormData上传，预览使用URL.createObjectURL。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-127",
+    "question": "React表格怎么做？",
+    "answer": "使用table或Grid组件，支持排序、筛选、分页。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-128",
+    "question": "React搜索组件实现？",
+    "answer": "受控输入+防抖+过滤数据渲染列表。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-129",
+    "question": "React分页逻辑？",
+    "answer": "计算总页数、当前页数据切片、分页导航组件。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-130",
+    "question": "React拖拽排序实现？",
+    "answer": "使用React DnD或HTML5拖拽API管理拖拽状态。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-131",
+    "question": "React无限滚动实现？",
+    "answer": "IntersectionObserver监听底部元素，触发加载更多。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-132",
+    "question": "React中怎么做虚拟列表？",
+    "answer": "使用react-window或react-virtuoso固定每个列表项高度。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-133",
+    "question": "Modal组件设计要点？",
+    "answer": "使用Portals渲染到body，ESC关闭，点击蒙层关闭，焦点锁定。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-134",
+    "question": "Drawer组件和Modal区别？",
+    "answer": "Drawer从侧边滑出，Modal居中弹出。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-135",
+    "question": "Tooltip组件实现？",
+    "answer": "CSS定位+鼠标事件触发，注意边界处理。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-136",
+    "question": "Popover组件实现？",
+    "answer": "类似Tooltip但可交互，包含按钮或表单。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-137",
+    "question": "Select组件实现？",
+    "answer": "展开菜单选项，支持搜索、多选、分组。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-138",
+    "question": "DatePicker组件实现？",
+    "answer": "日期选择面板，支持范围选择、快捷选项。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-139",
+    "question": "Tree组件实现？",
+    "answer": "递归渲染树节点，支持展开/收起。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-140",
+    "question": "Table组件实现？",
+    "answer": "数据表格，支持排序、筛选、分页、自定义列。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-141",
+    "question": "Tabs组件实现？",
+    "answer": "标签页切换，支持不同样式和动画。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-142",
+    "question": "Stepper组件实现？",
+    "answer": "步骤条，显示当前进行步骤。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-143",
+    "question": "Rating组件实现？",
+    "answer": "星星评分，支持半星。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-144",
+    "question": "Progress组件实现？",
+    "answer": "进度条，支持百分比和状态颜色。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-145",
+    "question": "React Hook可以放在条件语句吗？",
+    "answer": "不可以。Hook必须按照相同顺序在每次渲染时被调用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-146",
+    "question": "React为什么需要key？",
+    "answer": "key帮助React识别哪些列表项发生变化，提高渲染效率。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-147",
+    "question": "React中setState是同步还是异步？",
+    "answer": "React18中setState在事件处理函数中是异步的，在setTimeout中是自动批处理的。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-148",
+    "question": "React Fragment有什么用？",
+    "answer": "Fragment可以在不添加额外DOM节点的情况下分组子元素。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-149",
+    "question": "React错误边界能捕获哪些错误？",
+    "answer": "错误边界只能捕获渲染期间的错误，不能捕获事件处理和异步代码中的错误。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-150",
+    "question": "React的合成事件是什么？",
+    "answer": "合成事件是React封装的跨浏览器事件系统，提供一致的API和性能优化。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-151",
+    "question": "受控组件和非受控组件怎么选择？",
+    "answer": "推荐使用受控组件，更可预测。非受控组件适用于文件输入等场景。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-152",
+    "question": "React.memo和useMemo区别？",
+    "answer": "React.memo是HOC用于组件，useMemo是Hook用于值。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-153",
+    "question": "React Router v5和v6区别？",
+    "answer": "v6使用Routes替代Switch，Route的component改为element，新增useNavigate。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-154",
+    "question": "Zustand相比Redux的优势？",
+    "answer": "Zustand更轻量，无需Provider包裹，API更简洁。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-155",
+    "question": "怎么检测React组件重复渲染？",
+    "answer": "使用React DevTools Profiler或why-did-you-render库。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-156",
+    "question": "React中怎么做错误处理？",
+    "answer": "错误边界捕获UI错误，try-catch处理事件和异步错误。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-157",
+    "question": "React项目怎么组织文件？",
+    "answer": "按功能组织：components/pages/hooks/utils/store，每个组件一个文件夹。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-158",
+    "question": "Vite和Webpack怎么选择？",
+    "answer": "新项目推荐Vite，开发体验更好。Webpack在复杂配置场景更有优势。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-159",
+    "question": "React中怎么使用SVG？",
+    "answer": "SVG可以直接作为JSX使用，或通过SVGR转换为React组件。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-160",
+    "question": "React请求数据的最佳方式？",
+    "answer": "使用React Query或SWR库管理服务端状态，或使用useEffect手动获取。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-161",
+    "question": "Next.js和纯React区别？",
+    "answer": "Next.js是React全栈框架，提供SSR/SSG/API路由等功能。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-162",
+    "question": "React Hooks为什么比class组件好？",
+    "answer": "Hooks更简洁，复用逻辑更方便，没有this绑定问题。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-163",
+    "question": "React 18并发模式怎么开启？",
+    "answer": "使用createRoot替代ReactDOM.render自动启用并发特性。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-164",
+    "question": "useDeferredValue和useTransition区别？",
+    "answer": "useTransition标记状态更新紧急程度，useDeferredValue延迟值更新。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-165",
+    "question": "什么是不可变更新？",
+    "answer": "不直接修改state/对象，而是创建新副本进行更新。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-166",
+    "question": "React中怎么防止XSS？",
+    "answer": "React默认转义JSX中的内容，避免使用dangerouslySetInnerHTML。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-167",
+    "question": "React DevTools怎么使用？",
+    "answer": "安装浏览器扩展，可查看组件树、state、props和性能。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-168",
+    "question": "React项目首屏优化方法？",
+    "answer": "代码分割、懒加载、预加载关键资源、压缩图片。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-169",
+    "question": "React和React Native区别？",
+    "answer": "React开发Web应用，React Native开发移动端应用，语法相似但组件不同。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-170",
+    "question": "React 18自动批处理是什么？",
+    "answer": "多个setState自动合并为一次重渲染，提升性能。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-171",
+    "question": "React.lazy怎么用？",
+    "answer": "React.lazy(()=>import(./MyComponent))实现组件级别代码分割。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-172",
+    "question": "React Context缺点？",
+    "answer": "Provider值变化会导致所有消费者重渲染，需要拆分和优化。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-173",
+    "question": "React面试常问哪些Hooks？",
+    "answer": "useState、useEffect、useContext、useReducer、useMemo、useCallback。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-174",
+    "question": "React有什么局限性？",
+    "answer": "不是完整框架、JSX初始学习成本、频繁更新导致生态碎片化。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-175",
+    "question": "怎么调试React性能？",
+    "answer": "使用React DevTools Profiler、Chrome Performance面板、Lighthouse。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-176",
+    "question": "React设计原则？",
+    "answer": "组件化、声明式、单向数据流、可组合、不可变数据。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-177",
+    "question": "React团队有多少人？",
+    "answer": "React核心团队约10-15人，来自Meta和其他公司。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-178",
+    "question": "React发布周期？",
+    "answer": "大约每年一个大版本，小版本按需发布，采用语义化版本。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-179",
+    "question": "React开源协议？",
+    "answer": "MIT许可协议，可自由使用和修改。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-180",
+    "question": "React商标使用？",
+    "answer": "React是Meta的商标，使用时需遵守商标政策。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-181",
+    "question": "React社区贡献？",
+    "answer": "可通过GitHub提交PR、修复Issue、翻译文档、回答问题等方式贡献。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-182",
+    "question": "React RFC流程？",
+    "answer": "通过RFC（请求评论）流程讨论重大变更，社区可参与讨论。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-183",
+    "question": "React与Web Component关系？",
+    "answer": "React和Web Component解决不同问题，可结合使用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-184",
+    "question": "React页面渲染流程？",
+    "answer": "JSX→虚拟DOM→Diff→真实DOM更新。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-185",
+    "question": "React Fiber是什么？",
+    "answer": "React 16的协调引擎，支持增量渲染和优先级调度。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-186",
+    "question": "React动画怎么实现？",
+    "answer": "CSS Transition/Animation、Framer Motion、React Spring。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-187",
+    "question": "React中怎么做路由动画？",
+    "answer": "结合Framer Motion的AnimatePresence和路由过渡。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-188",
+    "question": "React项目测试覆盖率目标？",
+    "answer": "核心逻辑80%以上，UI组件60%以上。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-189",
+    "question": "React国际化方案？",
+    "answer": "使用react-i18next或react-intl，通过Context切换语言。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-190",
+    "question": "React可访问性方法？",
+    "answer": "语义化标签、ARIA属性、键盘导航、焦点管理。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-191",
+    "question": "React性能指标？",
+    "answer": "FCP、LCP、FID、CLS、TTI等Core Web Vitals。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-192",
+    "question": "React代码规范？",
+    "answer": "ESLint + Prettier + husky + lint-staged + commitlint。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-193",
+    "question": "React学习资源推荐？",
+    "answer": "React官方文档、Beta文档、awesome-react、React Podcast。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-194",
+    "question": "React错误边界能捕获事件处理错误吗？",
+    "answer": "不能。错误边界只能捕获渲染、生命周期和构造函数中的错误。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-195",
+    "question": "React中怎么捕获事件处理错误？",
+    "answer": "使用try-catch或在错误边界中使用componentDidCatch。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-196",
+    "question": "React默认阻止XSS吗？",
+    "answer": "是的，React默认转义JSX中的内容，防止XSS注入。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-197",
+    "question": "dangerouslySetInnerHTML有什么风险？",
+    "answer": "直接插入HTML可能导致XSS攻击，应避免使用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-198",
+    "question": "key属性为什么不推荐用索引？",
+    "answer": "列表顺序变化时会导致性能问题和状态错误。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-199",
+    "question": "React 18的useId用来做什么？",
+    "answer": "生成唯一ID，用于可访问性和服务端渲染。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-200",
+    "question": "React中CSS Module怎么用？",
+    "answer": "创建[name].module.css文件，导入为styles对象使用。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-201",
+    "question": "React中Tailwind和CSS Modules怎么选？",
+    "answer": "Tailwind适合快速开发、一致设计；CSS Modules适合大项目、精细化控制。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-202",
+    "question": "React中怎么做主题切换？",
+    "answer": "使用CSS变量+Context+useState，或使用styled-components的ThemeProvider。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-203",
+    "question": "React中服务端渲染怎么做？",
+    "answer": "使用Next.js等框架，或手动使用renderToString和hydrateRoot。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-faq-204",
+    "question": "React应用怎么监控性能？",
+    "answer": "使用React Profiler、Web Vitals库、集成Sentry等监控平台。",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  }
+]

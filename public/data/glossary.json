@@ -1,0 +1,4432 @@
+[
+  {
+    "id": "react-glossary-001",
+    "term": "React",
+    "definition": "用于构建用户界面的JavaScript库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-002",
+    "term": "JSX",
+    "definition": "JavaScript XML，React的语法扩展",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-003",
+    "term": "组件",
+    "definition": "可复用的UI代码单元",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-004",
+    "term": "函数组件",
+    "definition": "返回JSX的函数式组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-005",
+    "term": "虚拟DOM",
+    "definition": "真实DOM的JavaScript对象表示",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-006",
+    "term": "props",
+    "definition": "组件的输入属性，只读",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-007",
+    "term": "state",
+    "definition": "组件的状态数据",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-008",
+    "term": "useState",
+    "definition": "在函数组件中添加状态的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-009",
+    "term": "useEffect",
+    "definition": "处理副作用的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-010",
+    "term": "useContext",
+    "definition": "消费Context值的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-011",
+    "term": "useReducer",
+    "definition": "管理复杂状态的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-012",
+    "term": "useCallback",
+    "definition": "记忆化函数引用的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-013",
+    "term": "useMemo",
+    "definition": "记忆化计算结果的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-014",
+    "term": "useRef",
+    "definition": "创建引用访问DOM或存储可变值",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-015",
+    "term": "useLayoutEffect",
+    "definition": "同步执行副作用的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-016",
+    "term": "自定义Hook",
+    "definition": "以use开头的函数，复用状态逻辑",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-017",
+    "term": "受控组件",
+    "definition": "值由React state控制的表单组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-018",
+    "term": "非受控组件",
+    "definition": "值由DOM自身管理的表单组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-019",
+    "term": "事件处理",
+    "definition": "React中的事件绑定和处理机制",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-020",
+    "term": "条件渲染",
+    "definition": "根据条件渲染不同UI",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-021",
+    "term": "列表渲染",
+    "definition": "遍历数组渲染元素列表",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-022",
+    "term": "key",
+    "definition": "React识别列表项变化的属性",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-023",
+    "term": "Fragment",
+    "definition": "不添加DOM节点的分组容器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-024",
+    "term": "错误边界",
+    "definition": "捕获子组件错误的组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-025",
+    "term": "Portals",
+    "definition": "将组件渲染到父组件DOM之外",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-026",
+    "term": "ref转发",
+    "definition": "forwardRef传递ref给子组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-027",
+    "term": "高阶组件",
+    "definition": "接受组件返回新组件的函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-028",
+    "term": "Context",
+    "definition": "跨组件传递数据的机制",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-029",
+    "term": "Provider",
+    "definition": "Context值的提供者",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-030",
+    "term": "状态提升",
+    "definition": "将状态移到共同父组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-031",
+    "term": "children",
+    "definition": "组件标签之间的内容",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-032",
+    "term": "单向数据流",
+    "definition": "数据从父组件向子组件流动",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-033",
+    "term": "声明式UI",
+    "definition": "描述UI应呈现的状态",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-034",
+    "term": "React Router",
+    "definition": "React的路由解决方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-035",
+    "term": "BrowserRouter",
+    "definition": "使用History API的路由器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-036",
+    "term": "Link",
+    "definition": "声明式导航组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-037",
+    "term": "useNavigate",
+    "definition": "编程式导航Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-038",
+    "term": "useParams",
+    "definition": "获取路由参数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-039",
+    "term": "useLocation",
+    "definition": "获取当前URL信息",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-040",
+    "term": "嵌套路由",
+    "definition": "路由内部嵌套子路由",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-041",
+    "term": "路由懒加载",
+    "definition": "按需加载路由组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-042",
+    "term": "Suspense",
+    "definition": "组件加载过程的占位UI",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-043",
+    "term": "Zustand",
+    "definition": "轻量级状态管理库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-044",
+    "term": "create",
+    "definition": "Zustand创建store的函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-045",
+    "term": "set",
+    "definition": "Zustand中更新状态的方法",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-046",
+    "term": "get",
+    "definition": "Zustand中获取当前状态",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-047",
+    "term": "selector",
+    "definition": "从Zustand store中选择部分状态",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-048",
+    "term": "中间件",
+    "definition": "Zustand的功能扩展",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-049",
+    "term": "持久化",
+    "definition": "将Zustand状态保存到localStorage",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-050",
+    "term": "Vite",
+    "definition": "现代前端构建工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-051",
+    "term": "热更新",
+    "definition": "代码修改即时反映到浏览器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-052",
+    "term": "代码分割",
+    "definition": "按需加载代码减少首屏体积",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-053",
+    "term": "GitHub Pages",
+    "definition": "GitHub的静态网站托管服务",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-054",
+    "term": "GitHub Actions",
+    "definition": "GitHub的CI/CD平台",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-055",
+    "term": "base路径",
+    "definition": "Vite配置中子路径部署设置",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-056",
+    "term": "环境变量",
+    "definition": "影响程序行为的配置变量",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-057",
+    "term": "Tailwind CSS",
+    "definition": "原子化CSS框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-058",
+    "term": "CSS Modules",
+    "definition": "局部作用域的CSS方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-059",
+    "term": "受控vs非受控",
+    "definition": "表单组件两种模式的选择",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-060",
+    "term": "状态管理",
+    "definition": "管理组件间共享状态",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-061",
+    "term": "组件通信",
+    "definition": "组件间数据传递方式",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-062",
+    "term": "渲染优化",
+    "definition": "减少不必要重渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-063",
+    "term": "React.memo",
+    "definition": "跳过props不变的组件渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-064",
+    "term": "键属性",
+    "definition": "帮助React识别列表项",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-065",
+    "term": "表达式",
+    "definition": "JSX中的JS表达式嵌入",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-066",
+    "term": "属性",
+    "definition": "JSX元素的特性",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-067",
+    "term": "事件",
+    "definition": "React中的用户交互处理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-068",
+    "term": "生命周期",
+    "definition": "组件从挂载到卸载的过程",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-069",
+    "term": "副作用",
+    "definition": "数据获取、订阅等操作",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-070",
+    "term": "依赖数组",
+    "definition": "控制useEffect执行时机",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-071",
+    "term": "清理函数",
+    "definition": "useEffect返回的清理副作用函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-072",
+    "term": "竞态条件",
+    "definition": "异步操作的响应顺序问题",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-073",
+    "term": "闭包陷阱",
+    "definition": "Hook中捕获过期值",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-074",
+    "term": "Hook规则",
+    "definition": "只在顶层和函数组件中调用Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-075",
+    "term": "合成事件",
+    "definition": "React跨浏览器事件包装",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-076",
+    "term": "默认行为",
+    "definition": "浏览器事件的默认动作",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-077",
+    "term": "事件委托",
+    "definition": "父元素统一处理子元素事件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-078",
+    "term": "批量更新",
+    "definition": "React将多个setState合并",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-079",
+    "term": "不可变数据",
+    "definition": "不直接修改原数据",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-080",
+    "term": "函数式更新",
+    "definition": "基于前一个状态的更新",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-081",
+    "term": "惰性初始",
+    "definition": "useState延迟初始值计算",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-082",
+    "term": "Object.is",
+    "definition": "React状态比较算法",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-083",
+    "term": "浅比较",
+    "definition": "React.memo的默认比较方式",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-084",
+    "term": "严格模式",
+    "definition": "检测潜在问题的开发工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-085",
+    "term": "Profiler",
+    "definition": "测量渲染性能的工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-086",
+    "term": "React DevTools",
+    "definition": "React浏览器调试工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-087",
+    "term": "组件树",
+    "definition": "组件之间的层级关系",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-088",
+    "term": "渲染",
+    "definition": "组件生成UI的过程",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-089",
+    "term": "重新渲染",
+    "definition": "状态变化触发的UI更新",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-090",
+    "term": "挂载",
+    "definition": "组件首次插入DOM",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-091",
+    "term": "卸载",
+    "definition": "组件从DOM移除",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-092",
+    "term": "更新",
+    "definition": "组件状态或props变化",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-093",
+    "term": "协调",
+    "definition": "React比较前后虚拟DOM",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-094",
+    "term": "diff算法",
+    "definition": "虚拟DOM的比较算法",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-095",
+    "term": "Fiber",
+    "definition": "React16+的协调引擎",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-096",
+    "term": "并发模式",
+    "definition": "React18的并发渲染能力",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-097",
+    "term": "自动批处理",
+    "definition": "React18自动合并状态更新",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-098",
+    "term": "Transition",
+    "definition": "标记非紧急更新的API",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-099",
+    "term": "useDeferredValue",
+    "definition": "延迟更新值的Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-100",
+    "term": "SSR",
+    "definition": "服务端渲染React组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-101",
+    "term": "Hydration",
+    "definition": "客户端激活服务端HTML",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-102",
+    "term": "Next.js",
+    "definition": "React全栈框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-103",
+    "term": "Gatsby",
+    "definition": "React静态站点生成器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-104",
+    "term": "Remix",
+    "definition": "React全栈Web框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-105",
+    "term": "React Native",
+    "definition": "移动端React开发框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-106",
+    "term": "Expo",
+    "definition": "React Native工具链",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-107",
+    "term": "TypeScript",
+    "definition": "JavaScript类型超集",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-108",
+    "term": "类型定义",
+    "definition": "React组件的TS类型",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-109",
+    "term": "泛型组件",
+    "definition": "带类型参数的组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-110",
+    "term": "Storybook",
+    "definition": "组件开发和文档工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-111",
+    "term": "测试",
+    "definition": "React组件测试",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-112",
+    "term": "Jest",
+    "definition": "JavaScript测试框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-113",
+    "term": "TestingLibrary",
+    "definition": "React组件测试库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-114",
+    "term": "快照测试",
+    "definition": "UI输出快照比较",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-115",
+    "term": "单元测试",
+    "definition": "测试独立功能",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-116",
+    "term": "集成测试",
+    "definition": "测试组件间交互",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-117",
+    "term": "E2E测试",
+    "definition": "端到端测试",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-118",
+    "term": "Cypress",
+    "definition": "前端测试框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-119",
+    "term": "Playwright",
+    "definition": "跨浏览器测试工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-120",
+    "term": "React Query",
+    "definition": "服务端状态管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-121",
+    "term": "SWR",
+    "definition": "数据请求与缓存",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-122",
+    "term": "React Hook Form",
+    "definition": "表单验证库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-123",
+    "term": "Framer Motion",
+    "definition": "React动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-124",
+    "term": "React Spring",
+    "definition": "物理动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-125",
+    "term": "React DnD",
+    "definition": "拖拽库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-126",
+    "term": "React Virtualized",
+    "definition": "虚拟列表库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-127",
+    "term": "React Window",
+    "definition": "轻量虚拟列表",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-128",
+    "term": "React Helmet",
+    "definition": "head标签管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-129",
+    "term": "React Router v6",
+    "definition": "React Router第6版",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-130",
+    "term": "createBrowserRouter",
+    "definition": "Router v6.4数据API",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-131",
+    "term": "loader",
+    "definition": "路由数据加载函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-132",
+    "term": "action",
+    "definition": "路由表单处理函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-133",
+    "term": "useFetcher",
+    "definition": "非导航数据获取",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-134",
+    "term": "错误元素",
+    "definition": "路由级错误边界",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-135",
+    "term": "PWA",
+    "definition": "渐进式Web应用",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-136",
+    "term": "Service Worker",
+    "definition": "离线缓存脚本",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-137",
+    "term": "manifest",
+    "definition": "PWA配置清单",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-138",
+    "term": "Webpack",
+    "definition": "模块打包工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-139",
+    "term": "esbuild",
+    "definition": "极速打包器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-140",
+    "term": "SWC",
+    "definition": "Rust编译器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-141",
+    "term": "Babel",
+    "definition": "JS编译器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-142",
+    "term": "PostCSS",
+    "definition": "CSS处理工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-143",
+    "term": "Autoprefixer",
+    "definition": "自动添加浏览器前缀",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-144",
+    "term": "ESLint",
+    "definition": "代码质量检查工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-145",
+    "term": "Prettier",
+    "definition": "代码格式化工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-146",
+    "term": "Husky",
+    "definition": "Git Hooks管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-147",
+    "term": "lint-staged",
+    "definition": "暂存文件检查",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-148",
+    "term": "Commitlint",
+    "definition": "提交信息规范",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-149",
+    "term": "changeset",
+    "definition": "版本管理工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-150",
+    "term": "semver",
+    "definition": "语义化版本规范",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-151",
+    "term": "npm",
+    "definition": "Node包管理器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-152",
+    "term": "pnpm",
+    "definition": "高性能包管理器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-153",
+    "term": "yarn",
+    "definition": "Facebook包管理器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-154",
+    "term": "Monorepo",
+    "definition": "多包仓库管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-155",
+    "term": "Turborepo",
+    "definition": "高性能构建系统",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-156",
+    "term": "Web Vitals",
+    "definition": "核心Web指标",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-157",
+    "term": "Lighthouse",
+    "definition": "性能审计工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-158",
+    "term": "CLS",
+    "definition": "累积布局偏移",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-159",
+    "term": "LCP",
+    "definition": "最大内容绘制",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-160",
+    "term": "FID",
+    "definition": "首次输入延迟",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-161",
+    "term": "INP",
+    "definition": "下次绘制交互",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-162",
+    "term": "FCP",
+    "definition": "首次内容绘制",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-163",
+    "term": "TTI",
+    "definition": "可交互时间",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-164",
+    "term": "CRP",
+    "definition": "关键渲染路径",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-165",
+    "term": "Accessibility",
+    "definition": "可访问性",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-166",
+    "term": "ARIA",
+    "definition": "可访问的富互联网应用",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-167",
+    "term": "WCAG",
+    "definition": "Web内容无障碍指南",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-168",
+    "term": "键盘导航",
+    "definition": "键盘操作导航",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-169",
+    "term": "焦点管理",
+    "definition": "程序化焦点控制",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-170",
+    "term": "屏幕阅读器",
+    "definition": "语音读出屏幕内容",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-171",
+    "term": "语义HTML",
+    "definition": "含义明确的HTML元素",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-172",
+    "term": "SEO",
+    "definition": "搜索引擎优化",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-173",
+    "term": "结构化数据",
+    "definition": "Schema.org标记",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-174",
+    "term": "Open Graph",
+    "definition": "社交分享协议",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-175",
+    "term": "i18n",
+    "definition": "国际化",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-176",
+    "term": "l10n",
+    "definition": "本地化",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-177",
+    "term": "XSS",
+    "definition": "跨站脚本攻击",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-178",
+    "term": "CSRF",
+    "definition": "跨站请求伪造",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-179",
+    "term": "CSP",
+    "definition": "内容安全策略",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-180",
+    "term": "CORS",
+    "definition": "跨域资源共享",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-181",
+    "term": "HTTPS",
+    "definition": "安全HTTP协议",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-182",
+    "term": "JWT",
+    "definition": "JSON Web Token",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-183",
+    "term": "OAuth",
+    "definition": "开放授权协议",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-184",
+    "term": "Auth0",
+    "definition": "身份认证服务",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-185",
+    "term": "Firebase",
+    "definition": "Google应用开发平台",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-186",
+    "term": "Vercel",
+    "definition": "前端部署平台",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-187",
+    "term": "Netlify",
+    "definition": "静态网站托管",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-188",
+    "term": "Cloudflare",
+    "definition": "CDN和安全服务",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-189",
+    "term": "Sentry",
+    "definition": "错误监控平台",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-190",
+    "term": "Datadog",
+    "definition": "应用性能监控",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-191",
+    "term": "OpenTelemetry",
+    "definition": "可观测性框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-192",
+    "term": "Storybook",
+    "definition": "组件开发环境",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-193",
+    "term": "Chromatic",
+    "definition": "视觉回归测试",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-194",
+    "term": "Figma",
+    "definition": "UI设计工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-195",
+    "term": "设计系统",
+    "definition": "可复用组件和设计准则",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-196",
+    "term": "组件库",
+    "definition": "可复用UI组件集合",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-197",
+    "term": "Ant Design",
+    "definition": "React UI库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-198",
+    "term": "Material UI",
+    "definition": "Google设计系统实现",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-199",
+    "term": "Chakra UI",
+    "definition": "可访问React组件库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-200",
+    "term": "Radix UI",
+    "definition": "无样式可访问组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-201",
+    "term": "shadcn/ui",
+    "definition": "可复制粘贴的组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-202",
+    "term": "Headless UI",
+    "definition": "无样式UI组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-203",
+    "term": "DaisyUI",
+    "definition": "Tailwind组件库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-204",
+    "term": "Flowbite",
+    "definition": "Tailwind组件集",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-205",
+    "term": "PrimeReact",
+    "definition": "丰富的React组件库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-206",
+    "term": "React Bootstrap",
+    "definition": "Bootstrap React实现",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-207",
+    "term": "Semantic UI React",
+    "definition": "语义化UI框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-208",
+    "term": "Evergreen",
+    "definition": "Segment的React UI库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-209",
+    "term": "Blueprint",
+    "definition": "Palantir的React UI库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-210",
+    "term": "Rebass",
+    "definition": "函数式UI组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-211",
+    "term": "Theme UI",
+    "definition": "主题化UI框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-212",
+    "term": "Stitches",
+    "definition": "CSS-in-JS框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-213",
+    "term": "Emotion",
+    "definition": "CSS-in-JS库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-214",
+    "term": "styled-components",
+    "definition": "CSS-in-JS库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-215",
+    "term": "CSS Modules",
+    "definition": "CSS模块化方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-216",
+    "term": "Tailwind v4",
+    "definition": "最新版Tailwind CSS",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-217",
+    "term": "容器查询",
+    "definition": "基于容器尺寸的媒体查询",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-218",
+    "term": "视图过渡API",
+    "definition": "页面过渡动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-219",
+    "term": "Web动画API",
+    "definition": "浏览器原生动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-220",
+    "term": "滚动驱动动画",
+    "definition": "基于滚动的动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-221",
+    "term": "微前端",
+    "definition": "前端微服务架构",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-222",
+    "term": "Module Federation",
+    "definition": "Webpack5模块联邦",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-223",
+    "term": "qiankun",
+    "definition": "微前端框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-224",
+    "term": "single-spa",
+    "definition": "微前端框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-225",
+    "term": "React Server Components",
+    "definition": "React服务端组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-226",
+    "term": "App Router",
+    "definition": "Next.js13+新路由",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-227",
+    "term": "Server Actions",
+    "definition": "服务端操作",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-228",
+    "term": "Streaming SSR",
+    "definition": "流式服务端渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-229",
+    "term": "Partial Prerendering",
+    "definition": "部分预渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-230",
+    "term": "静态生成",
+    "definition": "构建时生成HTML",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-231",
+    "term": "增量静态生成",
+    "definition": "定期更新静态页面",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-232",
+    "term": "ISR",
+    "definition": "增量静态再生成",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-233",
+    "term": "SSG",
+    "definition": "静态站点生成",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-234",
+    "term": "CSR",
+    "definition": "客户端渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-235",
+    "term": "Hydration错误",
+    "definition": "服务端客户端不一致",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-236",
+    "term": "水合",
+    "definition": "客户端激活HTML",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-237",
+    "term": "反水合",
+    "definition": "避免不必要水合",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-238",
+    "term": "同构应用",
+    "definition": "服务端客户端共享代码",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-239",
+    "term": "通用组件",
+    "definition": "服务端客户端通用",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-240",
+    "term": "Tree Shaking",
+    "definition": "移除未用代码",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-241",
+    "term": "代码分割点",
+    "definition": "SplitChunks配置",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-242",
+    "term": "动态导入",
+    "definition": "import()按需加载",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-243",
+    "term": "预加载",
+    "definition": "提前加载资源",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-244",
+    "term": "预渲染",
+    "definition": "构建时预生成",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-245",
+    "term": "CDN",
+    "definition": "内容分发网络",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-246",
+    "term": "边缘计算",
+    "definition": "Edge Functions",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-247",
+    "term": "边缘渲染",
+    "definition": "CDN边缘渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-248",
+    "term": "缓存策略",
+    "definition": "资源缓存方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-249",
+    "term": "SRI",
+    "definition": "子资源完整性",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-250",
+    "term": "Polyfill",
+    "definition": "浏览器兼容补丁",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-251",
+    "term": "core-js",
+    "definition": "标准库polyfill",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-252",
+    "term": "browserslist",
+    "definition": "目标浏览器配置",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-253",
+    "term": "bundle分析",
+    "definition": "分析构建产物",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-254",
+    "term": "source-map",
+    "definition": "源码映射",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-255",
+    "term": "压缩",
+    "definition": "JS/CSS压缩",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-256",
+    "term": "gzip",
+    "definition": "gzip压缩",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-257",
+    "term": "Brotli",
+    "definition": "Brotli压缩",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-258",
+    "term": "图片优化",
+    "definition": "图片加载优化",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-259",
+    "term": "懒加载图片",
+    "definition": "图片延迟加载",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-260",
+    "term": "WebP",
+    "definition": "现代图片格式",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-261",
+    "term": "AVIF",
+    "definition": "新一代图片格式",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-262",
+    "term": "SVG优化",
+    "definition": "矢量图优化",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-263",
+    "term": "字体优化",
+    "definition": "字体加载策略",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-264",
+    "term": "FOUT",
+    "definition": "无样式文本闪烁",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-265",
+    "term": "FOIT",
+    "definition": "不可见文本闪烁",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-266",
+    "term": "字体子集",
+    "definition": "只包含所需字符",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-267",
+    "term": "图标字体",
+    "definition": "字体图标方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-268",
+    "term": "雪碧图",
+    "definition": "图片合并减少请求",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-269",
+    "term": "数据URI",
+    "definition": "内联资源编码",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-270",
+    "term": "CDN缓存",
+    "definition": "CDN层缓存",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-271",
+    "term": "浏览器缓存",
+    "definition": "HTTP缓存策略",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-272",
+    "term": "强缓存",
+    "definition": "无须验证的直接缓存",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-273",
+    "term": "协商缓存",
+    "definition": "需验证的缓存",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-274",
+    "term": "ServiceWorker缓存",
+    "definition": "SW缓存策略",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-275",
+    "term": "Workbox",
+    "definition": "SW工具库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-276",
+    "term": "Cache API",
+    "definition": "缓存接口",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-277",
+    "term": "IndexedDB",
+    "definition": "浏览器数据库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-278",
+    "term": "localStorage",
+    "definition": "键值对存储",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-279",
+    "term": "sessionStorage",
+    "definition": "会话存储",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-280",
+    "term": "Cookie",
+    "definition": "HTTP Cookie",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-281",
+    "term": "Web Storage",
+    "definition": "Web存储API",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-282",
+    "term": "事件循环",
+    "definition": "JS异步机制",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-283",
+    "term": "宏任务",
+    "definition": "macrotask",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-284",
+    "term": "微任务",
+    "definition": "microtask",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-285",
+    "term": "Promise",
+    "definition": "异步编程方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-286",
+    "term": "async/await",
+    "definition": "异步语法糖",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-287",
+    "term": "Generator",
+    "definition": "生成器函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-288",
+    "term": "迭代器",
+    "definition": "Iterator协议",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-289",
+    "term": "可迭代对象",
+    "definition": "实现Symbol.iterator",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-290",
+    "term": "for-await-of",
+    "definition": "异步迭代",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-291",
+    "term": "顶层await",
+    "definition": "模块顶层await",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-292",
+    "term": "import.meta",
+    "definition": "模块元数据",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-293",
+    "term": "ES Module",
+    "definition": "ES模块系统",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-294",
+    "term": "CommonJS",
+    "definition": "Node模块系统",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-295",
+    "term": "动态import",
+    "definition": "按需加载模块",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-296",
+    "term": "循环依赖",
+    "definition": "模块循环引用",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-297",
+    "term": "命名导出",
+    "definition": "named export",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-298",
+    "term": "默认导出",
+    "definition": "default export",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-299",
+    "term": "重导出",
+    "definition": "re-export",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-300",
+    "term": "Redux",
+    "definition": "可预测的状态容器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-301",
+    "term": "Redux Toolkit",
+    "definition": "Redux官方推荐工具集",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-302",
+    "term": "createSlice",
+    "definition": "Redux Toolkit创建状态切片",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-303",
+    "term": "createAsyncThunk",
+    "definition": "异步Thunk创建函数",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-304",
+    "term": "Immer",
+    "definition": "不可变数据操作库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-305",
+    "term": "Reselect",
+    "definition": "Redux选择器库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-306",
+    "term": "React Redux",
+    "definition": "React的Redux绑定库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-307",
+    "term": "Provider",
+    "definition": "Redux Provider组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-308",
+    "term": "useSelector",
+    "definition": "Redux选择器Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-309",
+    "term": "useDispatch",
+    "definition": "Redux分发Hook",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-310",
+    "term": "styled-components",
+    "definition": "CSS-in-JS库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-311",
+    "term": "Emotion",
+    "definition": "高性能CSS-in-JS库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-312",
+    "term": "CSS Modules",
+    "definition": "CSS模块化方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-313",
+    "term": "Tailwind CSS",
+    "definition": "原子化CSS框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-314",
+    "term": "Bootstrap",
+    "definition": "CSS框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-315",
+    "term": "Ant Design",
+    "definition": "企业级React UI库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-316",
+    "term": "Material UI",
+    "definition": "Material Design React组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-317",
+    "term": "Chakra UI",
+    "definition": "可访问React组件库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-318",
+    "term": "shadcn/ui",
+    "definition": "可复制组件集合",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-319",
+    "term": "Radix UI",
+    "definition": "无样式可访问组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-320",
+    "term": "Storybook",
+    "definition": "组件开发环境",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-321",
+    "term": "Jest",
+    "definition": "JavaScript测试框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-322",
+    "term": "Testing Library",
+    "definition": "轻量测试工具集",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-323",
+    "term": "Cypress",
+    "definition": "前端测试框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-324",
+    "term": "Playwright",
+    "definition": "跨浏览器测试框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-325",
+    "term": "Vitest",
+    "definition": "Vite生态测试框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-326",
+    "term": "MSW",
+    "definition": "API Mock库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-327",
+    "term": "Faker",
+    "definition": "假数据生成库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-328",
+    "term": "React Router",
+    "definition": "React路由库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-329",
+    "term": "React Query",
+    "definition": "服务端状态管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-330",
+    "term": "SWR",
+    "definition": "数据请求策略",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-331",
+    "term": "Zustand",
+    "definition": "轻量状态管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-332",
+    "term": "Jotai",
+    "definition": "原子化状态管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-333",
+    "term": "Valtio",
+    "definition": "代理状态管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-334",
+    "term": "React Hook Form",
+    "definition": "表单验证库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-335",
+    "term": "Formik",
+    "definition": "React表单库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-336",
+    "term": "Zod",
+    "definition": "TypeScript校验库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-337",
+    "term": "Yup",
+    "definition": "对象模式校验库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-338",
+    "term": "Framer Motion",
+    "definition": "React动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-339",
+    "term": "React Spring",
+    "definition": "物理动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-340",
+    "term": "GSAP",
+    "definition": "高性能动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-341",
+    "term": "React DnD",
+    "definition": "拖拽库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-342",
+    "term": "react-beautiful-dnd",
+    "definition": "美观拖拽库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-343",
+    "term": "dnd-kit",
+    "definition": "现代拖拽库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-344",
+    "term": "React Window",
+    "definition": "虚拟列表",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-345",
+    "term": "React Virtualized",
+    "definition": "虚拟列表库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-346",
+    "term": "React Virtuoso",
+    "definition": "高性能虚拟列表",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-347",
+    "term": "React Helmet",
+    "definition": "head管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-348",
+    "term": "React Helmet Async",
+    "definition": "异步head管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-349",
+    "term": "react-i18next",
+    "definition": "国际化方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-350",
+    "term": "react-intl",
+    "definition": "国际化方案",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-351",
+    "term": "react-pdf",
+    "definition": "PDF渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-352",
+    "term": "react-markdown",
+    "definition": "Markdown渲染",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-353",
+    "term": "react-syntax-highlighter",
+    "definition": "代码高亮",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-354",
+    "term": "react-player",
+    "definition": "视频播放器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-355",
+    "term": "react-dropzone",
+    "definition": "拖拽上传",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-356",
+    "term": "react-select",
+    "definition": "选择组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-357",
+    "term": "react-datepicker",
+    "definition": "日期选择器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-358",
+    "term": "react-chartjs-2",
+    "definition": "Chart.js封装",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-359",
+    "term": "recharts",
+    "definition": "React图表库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-360",
+    "term": "echarts-for-react",
+    "definition": "ECharts集成",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-361",
+    "term": "react-three-fiber",
+    "definition": "Three.js React渲染器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-362",
+    "term": "@react-three/drei",
+    "definition": "Three.js辅助库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-363",
+    "term": "react-leaflet",
+    "definition": "Leaflet地图集成",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-364",
+    "term": "react-google-maps",
+    "definition": "Google地图集成",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-365",
+    "term": "react-quill",
+    "definition": "富文本编辑器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-366",
+    "term": "@uiw/react-md-editor",
+    "definition": "Markdown编辑器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-367",
+    "term": "@codemirror/view",
+    "definition": "代码编辑器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-368",
+    "term": "react-icons",
+    "definition": "图标库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-369",
+    "term": "lucide-react",
+    "definition": "图标库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-370",
+    "term": "heroicons",
+    "definition": "SVG图标",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-371",
+    "term": "react-spinners",
+    "definition": "加载动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-372",
+    "term": "react-hot-toast",
+    "definition": "提示通知",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-373",
+    "term": "react-toastify",
+    "definition": "通知组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-374",
+    "term": "sonner",
+    "definition": "Toast组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-375",
+    "term": "react-spring-modal",
+    "definition": "动画Modal",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-376",
+    "term": "@headlessui/react",
+    "definition": "无样式UI组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-377",
+    "term": "@radix-ui/react-dialog",
+    "definition": "Dialog组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-378",
+    "term": "react-aria",
+    "definition": "可访问性Hooks",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-379",
+    "term": "react-remove-scroll",
+    "definition": "滚动锁定",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-380",
+    "term": "react-focus-lock",
+    "definition": "焦点锁定",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-381",
+    "term": "react-portal",
+    "definition": "Portals封装",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-382",
+    "term": "react-transition-group",
+    "definition": "过渡动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-383",
+    "term": "react-loadable",
+    "definition": "代码分割",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-384",
+    "term": "loadable-components",
+    "definition": "代码分割",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-385",
+    "term": "react-error-boundary",
+    "definition": "错误边界",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-386",
+    "term": "react-helmet-async",
+    "definition": "head管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-387",
+    "term": "react-web-share",
+    "definition": "Web Share API",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-388",
+    "term": "react-copy-to-clipboard",
+    "definition": "剪贴板",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-389",
+    "term": "react-draggable",
+    "definition": "拖拽",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-390",
+    "term": "react-resizable",
+    "definition": "可调整大小",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-391",
+    "term": "react-sortable-hoc",
+    "definition": "排序组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-392",
+    "term": "react-json-view",
+    "definition": "JSON查看器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-393",
+    "term": "react-ace",
+    "definition": "代码编辑器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-394",
+    "term": "react-paginate",
+    "definition": "分页组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-395",
+    "term": "react-infinite-scroll",
+    "definition": "无限滚动",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-396",
+    "term": "react-intersection-observer",
+    "definition": "交叉观察",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-397",
+    "term": "react-lazyload",
+    "definition": "懒加载",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-398",
+    "term": "react-progressive-image",
+    "definition": "渐进式图片",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-399",
+    "term": "react-image",
+    "definition": "图片管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-400",
+    "term": "react-avatar",
+    "definition": "头像组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-401",
+    "term": "react-before-after-slider",
+    "definition": "对比滑块",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-402",
+    "term": "react-compare-image",
+    "definition": "图片对比",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-403",
+    "term": "react-color",
+    "definition": "颜色选择器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-404",
+    "term": "react-rating",
+    "definition": "评分组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-405",
+    "term": "react-star-ratings",
+    "definition": "星评组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-406",
+    "term": "react-countup",
+    "definition": "数字动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-407",
+    "term": "react-typed",
+    "definition": "打字效果",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-408",
+    "term": "react-type-animation",
+    "definition": "打字动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-409",
+    "term": "react-reveal",
+    "definition": "滚动动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-410",
+    "term": "react-awesome-reveal",
+    "definition": "滚动动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-411",
+    "term": "react-animate-on-scroll",
+    "definition": "滚动动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-412",
+    "term": "react-spring",
+    "definition": "物理动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-413",
+    "term": "react-motion",
+    "definition": "动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-414",
+    "term": "react-move",
+    "definition": "动画库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-415",
+    "term": "react-flip-toolkit",
+    "definition": "FLIP动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-416",
+    "term": "auto-animate",
+    "definition": "自动动画",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-417",
+    "term": "react-hook-form",
+    "definition": "表单验证",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-418",
+    "term": "react-final-form",
+    "definition": "表单验证",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-419",
+    "term": "react-jsonschema-form",
+    "definition": "JSON Schema表单",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-420",
+    "term": "react-querybuilder",
+    "definition": "查询构建器",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-421",
+    "term": "react-data-grid",
+    "definition": "数据表格",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-422",
+    "term": "react-table",
+    "definition": "表格库",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-423",
+    "term": "tanstack/react-table",
+    "definition": "TanStack表格",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-424",
+    "term": "react-grid-layout",
+    "definition": "可拖拽网格",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-425",
+    "term": "react-masonry-css",
+    "definition": "瀑布流布局",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-426",
+    "term": "react-slick",
+    "definition": "轮播图",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-427",
+    "term": "keen-slider",
+    "definition": "轮播图",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-428",
+    "term": "embla-carousel",
+    "definition": "轮播图",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-429",
+    "term": "swiper",
+    "definition": "轮播图",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-430",
+    "term": "react-calendar",
+    "definition": "日历组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-431",
+    "term": "react-big-calendar",
+    "definition": "日历组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-432",
+    "term": "react-schedule",
+    "definition": "日程组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-433",
+    "term": "react-timeline",
+    "definition": "时间线",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-434",
+    "term": "react-trello",
+    "definition": "看板组件",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-435",
+    "term": "react-kanban",
+    "definition": "看板",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-436",
+    "term": "react-dashboard",
+    "definition": "仪表盘",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-437",
+    "term": "react-admin",
+    "definition": "后台管理",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-438",
+    "term": "refine",
+    "definition": "React后台框架",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-439",
+    "term": "react-devtools",
+    "definition": "开发者工具",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-440",
+    "term": "React Profiler",
+    "definition": "性能分析",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-441",
+    "term": "React DevTools",
+    "definition": "浏览器扩展",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-442",
+    "term": "why-did-you-render",
+    "definition": "渲染原因分析",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "react-glossary-443",
+    "term": "react-scan",
+    "definition": "渲染检测",
+    "category": "React",
+    "tags": [
+      "React"
+    ],
+    "updatedAt": "2026-07-01T00:00:00.000Z"
+  }
+]

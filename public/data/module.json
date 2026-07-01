@@ -1,0 +1,41 @@
+{
+  "id": "mod-react-basic",
+  "slug": "module-react-basic",
+  "title": "React 入门与项目实战",
+  "subtitle": "面向 React 初学者的组件化开发、Hooks、Router、Zustand 状态管理、GitHub Pages 部署与项目实战模块",
+  "description": "面向已经学过 HTML、CSS、JavaScript 基础的学习者，系统学习 React、组件化、JSX、props、state、事件、条件渲染、列表渲染、表单、Hooks、React Router、状态管理、组件拆分、静态数据加载、Vite 构建、GitHub Pages 部署和 React 项目实战。包含课程、讲义、知识点、题库、试卷、案例训练、学习路线、术语表与 FAQ。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "React",
+    "前端开发",
+    "JSX",
+    "组件化",
+    "Hooks",
+    "React Router",
+    "Vite",
+    "GitHub Pages"
+  ],
+  "estimatedHours": 140,
+  "difficulty": "easy",
+  "updatedAt": "2026-07-01T12:00:00.000Z",
+  "coverEmoji": "⚛️",
+  "repoUrl": "https://github.com/openskill-galaxy/module-react-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 184,
+    "knowledgePoints": 814,
+    "questions": 3000,
+    "cases": 245,
+    "exams": 85,
+    "routes": 35,
+    "glossary": 443,
+    "faqs": 204,
+    "tags": 372
+  }
+}
