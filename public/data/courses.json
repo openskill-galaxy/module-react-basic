@@ -21,11 +21,9 @@
       "react-lesson-007",
       "react-lesson-008",
       "react-lesson-009",
-      "react-lesson-010",
-      "react-lesson-163",
-      "react-lesson-164"
+      "react-lesson-010"
     ],
-    "totalLessons": 12,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -62,11 +60,9 @@
       "react-lesson-021",
       "react-lesson-022",
       "react-lesson-023",
-      "react-lesson-024",
-      "react-lesson-165",
-      "react-lesson-166"
+      "react-lesson-024"
     ],
-    "totalLessons": 16,
+    "totalLessons": 14,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -101,11 +97,9 @@
       "react-lesson-033",
       "react-lesson-034",
       "react-lesson-035",
-      "react-lesson-036",
-      "react-lesson-167",
-      "react-lesson-168"
+      "react-lesson-036"
     ],
-    "totalLessons": 14,
+    "totalLessons": 12,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -142,11 +136,9 @@
       "react-lesson-047",
       "react-lesson-048",
       "react-lesson-049",
-      "react-lesson-050",
-      "react-lesson-169",
-      "react-lesson-170"
+      "react-lesson-050"
     ],
-    "totalLessons": 16,
+    "totalLessons": 14,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -179,11 +171,9 @@
       "react-lesson-057",
       "react-lesson-058",
       "react-lesson-059",
-      "react-lesson-060",
-      "react-lesson-171",
-      "react-lesson-172"
+      "react-lesson-060"
     ],
-    "totalLessons": 12,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -216,11 +206,9 @@
       "react-lesson-067",
       "react-lesson-068",
       "react-lesson-069",
-      "react-lesson-070",
-      "react-lesson-173",
-      "react-lesson-174"
+      "react-lesson-070"
     ],
-    "totalLessons": 12,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -255,10 +243,9 @@
       "react-lesson-079",
       "react-lesson-080",
       "react-lesson-081",
-      "react-lesson-082",
-      "react-lesson-175"
+      "react-lesson-082"
     ],
-    "totalLessons": 13,
+    "totalLessons": 12,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -291,10 +278,9 @@
       "react-lesson-089",
       "react-lesson-090",
       "react-lesson-091",
-      "react-lesson-092",
-      "react-lesson-176"
+      "react-lesson-092"
     ],
-    "totalLessons": 11,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -329,10 +315,9 @@
       "react-lesson-101",
       "react-lesson-102",
       "react-lesson-103",
-      "react-lesson-104",
-      "react-lesson-177"
+      "react-lesson-104"
     ],
-    "totalLessons": 13,
+    "totalLessons": 12,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -365,10 +350,9 @@
       "react-lesson-111",
       "react-lesson-112",
       "react-lesson-113",
-      "react-lesson-114",
-      "react-lesson-178"
+      "react-lesson-114"
     ],
-    "totalLessons": 11,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -401,11 +385,9 @@
       "react-lesson-121",
       "react-lesson-122",
       "react-lesson-123",
-      "react-lesson-124",
-      "react-lesson-179",
-      "react-lesson-180"
+      "react-lesson-124"
     ],
-    "totalLessons": 12,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -438,10 +420,9 @@
       "react-lesson-131",
       "react-lesson-132",
       "react-lesson-133",
-      "react-lesson-134",
-      "react-lesson-181"
+      "react-lesson-134"
     ],
-    "totalLessons": 11,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -474,10 +455,9 @@
       "react-lesson-141",
       "react-lesson-142",
       "react-lesson-143",
-      "react-lesson-144",
-      "react-lesson-182"
+      "react-lesson-144"
     ],
-    "totalLessons": 11,
+    "totalLessons": 10,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [
@@ -518,11 +498,9 @@
       "react-lesson-159",
       "react-lesson-160",
       "react-lesson-161",
-      "react-lesson-162",
-      "react-lesson-183",
-      "react-lesson-184"
+      "react-lesson-162"
     ],
-    "totalLessons": 20,
+    "totalLessons": 18,
     "totalQuestions": 0,
     "prerequisites": [],
     "outcomes": [

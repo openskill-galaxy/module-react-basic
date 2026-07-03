@@ -3922,421 +3922,345 @@
     "updatedAt": "2026-07-01T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-163",
-    "courseId": "react-course-01",
-    "order": 11,
-    "title": "React与其他框架对比",
-    "slug": "react与其他框架对比",
-    "summary": "React与其他框架对比章节摘要",
-    "content": "# React与其他框架对比\n\n这是React与其他框架对比的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-164",
-    "courseId": "react-course-01",
-    "order": 12,
-    "title": "React生态全景图",
-    "slug": "react生态全景图",
-    "summary": "React生态全景图章节摘要",
-    "content": "# React生态全景图\n\n这是React生态全景图的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-165",
-    "courseId": "react-course-02",
-    "order": 15,
-    "title": "JSX与style属性",
-    "slug": "jsx与style属性",
-    "summary": "JSX与style属性章节摘要",
-    "content": "# JSX与style属性\n\n这是JSX与style属性的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-166",
-    "courseId": "react-course-02",
-    "order": 16,
-    "title": "JSX事件绑定复习",
-    "slug": "jsx事件绑定复习",
-    "summary": "JSX事件绑定复习章节摘要",
-    "content": "# JSX事件绑定复习\n\n这是JSX事件绑定复习的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-167",
-    "courseId": "react-course-03",
-    "order": 13,
-    "title": "props逐层传递模式",
-    "slug": "props逐层传递模式",
-    "summary": "props逐层传递模式章节摘要",
-    "content": "# props逐层传递模式\n\n这是props逐层传递模式的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-168",
-    "courseId": "react-course-03",
-    "order": 14,
-    "title": "propTypes类型检查",
-    "slug": "proptypes类型检查",
-    "summary": "propTypes类型检查章节摘要",
-    "content": "# propTypes类型检查\n\n这是propTypes类型检查的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-169",
-    "courseId": "react-course-04",
-    "order": 15,
-    "title": "状态初始化策略",
-    "slug": "状态初始化策略",
-    "summary": "状态初始化策略章节摘要",
-    "content": "# 状态初始化策略\n\n这是状态初始化策略的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-170",
-    "courseId": "react-course-04",
-    "order": 16,
-    "title": "状态更新性能",
-    "slug": "状态更新性能",
-    "summary": "状态更新性能章节摘要",
-    "content": "# 状态更新性能\n\n这是状态更新性能的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-171",
-    "courseId": "react-course-05",
-    "order": 11,
-    "title": "条件渲染多种方式对比",
-    "slug": "条件渲染多种方式对比",
-    "summary": "条件渲染多种方式对比章节摘要",
-    "content": "# 条件渲染多种方式对比\n\n这是条件渲染多种方式对比的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-172",
-    "courseId": "react-course-05",
-    "order": 12,
-    "title": "列表筛选组合",
-    "slug": "列表筛选组合",
-    "summary": "列表筛选组合章节摘要",
-    "content": "# 列表筛选组合\n\n这是列表筛选组合的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-173",
-    "courseId": "react-course-06",
-    "order": 11,
-    "title": "复杂表单状态管理",
-    "slug": "复杂表单状态管理",
-    "summary": "复杂表单状态管理章节摘要",
-    "content": "# 复杂表单状态管理\n\n这是复杂表单状态管理的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-174",
-    "courseId": "react-course-06",
-    "order": 12,
-    "title": "表单校验库对比",
-    "slug": "表单校验库对比",
-    "summary": "表单校验库对比章节摘要",
-    "content": "# 表单校验库对比\n\n这是表单校验库对比的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-175",
-    "courseId": "react-course-07",
-    "order": 13,
-    "title": "useEffect性能考虑",
-    "slug": "useeffect性能考虑",
-    "summary": "useEffect性能考虑章节摘要",
-    "content": "# useEffect性能考虑\n\n这是useEffect性能考虑的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-176",
-    "courseId": "react-course-08",
-    "order": 11,
-    "title": "自定义Hook实战模式",
-    "slug": "自定义hook实战模式",
-    "summary": "自定义Hook实战模式章节摘要",
-    "content": "# 自定义Hook实战模式\n\n这是自定义Hook实战模式的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-177",
+    "id": "re-lesson-163",
     "courseId": "react-course-09",
     "order": 13,
-    "title": "路由鉴权实现",
-    "slug": "路由鉴权实现",
-    "summary": "路由鉴权实现章节摘要",
-    "content": "# 路由鉴权实现\n\n这是路由鉴权实现的讲义内容。",
+    "title": "React Router 路由拓展163",
+    "slug": "ReactRouter路由-ext-163",
+    "summary": "React Router 路由拓展",
+    "content": "#React Router 路由拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-178",
+    "id": "re-lesson-164",
     "courseId": "react-course-10",
     "order": 11,
-    "title": "组件复用高级模式",
-    "slug": "组件复用高级模式",
-    "summary": "组件复用高级模式章节摘要",
-    "content": "# 组件复用高级模式\n\n这是组件复用高级模式的讲义内容。",
+    "title": "组件拆分与项目结构拓展164",
+    "slug": "组件拆分与项目结构-ext-164",
+    "summary": "组件拆分与项目结构拓展",
+    "content": "#组件拆分与项目结构拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-179",
+    "id": "re-lesson-165",
     "courseId": "react-course-11",
     "order": 11,
-    "title": "数据缓存与SWR",
-    "slug": "数据缓存与swr",
-    "summary": "数据缓存与SWR章节摘要",
-    "content": "# 数据缓存与SWR\n\n这是数据缓存与SWR的讲义内容。",
+    "title": "静态 JSON 数据加载拓展165",
+    "slug": "静态JSON数据加载-ext-165",
+    "summary": "静态 JSON 数据加载拓展",
+    "content": "#静态 JSON 数据加载拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-180",
-    "courseId": "react-course-11",
-    "order": 12,
-    "title": "React Query入门",
-    "slug": "react-query入门",
-    "summary": "React Query入门章节摘要",
-    "content": "# React Query入门\n\n这是React Query入门的讲义内容。",
-    "contentFormat": "markdown",
-    "estimatedMinutes": 30,
-    "difficulty": "medium",
-    "knowledgePointIds": [],
-    "practiceQuestionIds": [],
-    "tags": [
-      "react"
-    ],
-    "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "id": "react-lesson-181",
+    "id": "re-lesson-166",
     "courseId": "react-course-12",
     "order": 11,
-    "title": "状态管理方案对比总结",
-    "slug": "状态管理方案对比总结",
-    "summary": "状态管理方案对比总结章节摘要",
-    "content": "# 状态管理方案对比总结\n\n这是状态管理方案对比总结的讲义内容。",
+    "title": "Zustand 或轻量状态管理拓展166",
+    "slug": "Zustand轻量状态管理-ext-166",
+    "summary": "Zustand 或轻量状态管理拓展",
+    "content": "#Zustand 或轻量状态管理拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-182",
+    "id": "re-lesson-167",
     "courseId": "react-course-13",
     "order": 11,
-    "title": "CI/CD集成",
-    "slug": "ci/cd集成",
-    "summary": "CI/CD集成章节摘要",
-    "content": "# CI/CD集成\n\n这是CI/CD集成的讲义内容。",
+    "title": "Vite、构建与 GitHub Pages 部署拓展167",
+    "slug": "Vite构建与GitHubPages部署-ext-167",
+    "summary": "Vite、构建与 GitHub Pages 部署拓展",
+    "content": "#Vite、构建与 GitHub Pages 部署拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-183",
+    "id": "re-lesson-168",
     "courseId": "react-course-14",
     "order": 19,
-    "title": "React Native简介",
-    "slug": "react-native简介",
-    "summary": "React Native简介章节摘要",
-    "content": "# React Native简介\n\n这是React Native简介的讲义内容。",
+    "title": "React 项目实战与作品集拓展168",
+    "slug": "React项目实战与作品集-ext-168",
+    "summary": "React 项目实战与作品集拓展",
+    "content": "#React 项目实战与作品集拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   },
   {
-    "id": "react-lesson-184",
-    "courseId": "react-course-14",
-    "order": 20,
-    "title": "React面试准备",
-    "slug": "react面试准备",
-    "summary": "React面试准备章节摘要",
-    "content": "# React面试准备\n\n这是React面试准备的讲义内容。",
+    "id": "re-lesson-169",
+    "courseId": "react-course-01",
+    "order": 11,
+    "title": "React 入门与学习路线拓展169",
+    "slug": "React入门与学习路线-ext-169",
+    "summary": "React 入门与学习路线拓展",
+    "content": "#React 入门与学习路线拓展",
     "contentFormat": "markdown",
     "estimatedMinutes": 30,
-    "difficulty": "medium",
+    "difficulty": "hard",
     "knowledgePointIds": [],
     "practiceQuestionIds": [],
     "tags": [
-      "react"
+      "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-170",
+    "courseId": "react-course-02",
+    "order": 15,
+    "title": "JSX 与组件基础拓展170",
+    "slug": "JSX与组件基础-ext-170",
+    "summary": "JSX 与组件基础拓展",
+    "content": "#JSX 与组件基础拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-171",
+    "courseId": "react-course-03",
+    "order": 13,
+    "title": "props、children 与组件通信拓展171",
+    "slug": "props-children与组件通信-ext-171",
+    "summary": "props、children 与组件通信拓展",
+    "content": "#props、children 与组件通信拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-172",
+    "courseId": "react-course-04",
+    "order": 15,
+    "title": "state 与事件处理拓展172",
+    "slug": "state与事件处理-ext-172",
+    "summary": "state 与事件处理拓展",
+    "content": "#state 与事件处理拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-173",
+    "courseId": "react-course-05",
+    "order": 11,
+    "title": "条件渲染与列表渲染拓展173",
+    "slug": "条件渲染与列表渲染-ext-173",
+    "summary": "条件渲染与列表渲染拓展",
+    "content": "#条件渲染与列表渲染拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-174",
+    "courseId": "react-course-06",
+    "order": 11,
+    "title": "表单处理与受控组件拓展174",
+    "slug": "表单处理与受控组件-ext-174",
+    "summary": "表单处理与受控组件拓展",
+    "content": "#表单处理与受控组件拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-175",
+    "courseId": "react-course-07",
+    "order": 13,
+    "title": "useEffect 与副作用拓展175",
+    "slug": "useEffect与副作用-ext-175",
+    "summary": "useEffect 与副作用拓展",
+    "content": "#useEffect 与副作用拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-176",
+    "courseId": "react-course-08",
+    "order": 11,
+    "title": "自定义 Hooks拓展176",
+    "slug": "自定义Hooks-ext-176",
+    "summary": "自定义 Hooks拓展",
+    "content": "#自定义 Hooks拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-177",
+    "courseId": "react-course-09",
+    "order": 14,
+    "title": "React Router 路由拓展177",
+    "slug": "ReactRouter路由-ext-177",
+    "summary": "React Router 路由拓展",
+    "content": "#React Router 路由拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-178",
+    "courseId": "react-course-10",
+    "order": 12,
+    "title": "组件拆分与项目结构拓展178",
+    "slug": "组件拆分与项目结构-ext-178",
+    "summary": "组件拆分与项目结构拓展",
+    "content": "#组件拆分与项目结构拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-179",
+    "courseId": "react-course-11",
+    "order": 12,
+    "title": "静态 JSON 数据加载拓展179",
+    "slug": "静态JSON数据加载-ext-179",
+    "summary": "静态 JSON 数据加载拓展",
+    "content": "#静态 JSON 数据加载拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "re-lesson-180",
+    "courseId": "react-course-12",
+    "order": 12,
+    "title": "Zustand 或轻量状态管理拓展180",
+    "slug": "Zustand轻量状态管理-ext-180",
+    "summary": "Zustand 或轻量状态管理拓展",
+    "content": "#Zustand 或轻量状态管理拓展",
+    "contentFormat": "markdown",
+    "estimatedMinutes": 30,
+    "difficulty": "hard",
+    "knowledgePointIds": [],
+    "practiceQuestionIds": [],
+    "tags": [
+      "X"
+    ],
+    "prerequisites": [],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   }
 ]

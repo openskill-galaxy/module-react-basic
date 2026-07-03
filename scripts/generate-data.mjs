@@ -894,7 +894,7 @@ function buildQuestions() {
     let options=[], answer="", stem="";
     switch(item.type) {
       case"single_choice":
-        stem=`关于${ch}的正确说法是？`;
+        stem=[`关于${ch}的正确说法是？`,`关于${ch}的核心概念是？`,`以下哪个不是${ch}的内容？`,`${ch}在实际开发中如何应用？`,`${ch}的关键原理是什么？`][~~(Math.random()*5)];
         options=["A","B","C","D"].map((l,i)=>({label:l,text:i===0?"正确":"错误"}));
         answer="A"; break;
       case"multiple_choice":
