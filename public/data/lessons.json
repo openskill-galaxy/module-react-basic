@@ -20,7 +20,13 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React是什么\n\n这是React是什么的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React是什么的核心知识。",
+    "knowledgePoints": [
+      "rkp-001",
+      "rkp-002",
+      "rkp-003"
+    ]
   },
   {
     "id": "react-lesson-002",
@@ -43,7 +49,12 @@
       "虚拟dom"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React与传统DOM开发的区别\n\n这是React与传统DOM开发的区别的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React与传统DOM开发的区别的核心知识。",
+    "knowledgePoints": [
+      "rkp-004",
+      "rkp-005"
+    ]
   },
   {
     "id": "react-lesson-003",
@@ -67,7 +78,13 @@
       "组件化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React核心概念\n\n这是React核心概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React核心概念的核心知识。",
+    "knowledgePoints": [
+      "rkp-006",
+      "rkp-007",
+      "rkp-008"
+    ]
   },
   {
     "id": "react-lesson-004",
@@ -90,7 +107,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 开发环境搭建\n\n这是开发环境搭建的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了开发环境搭建的核心知识。",
+    "knowledgePoints": [
+      "rkp-009",
+      "rkp-010"
+    ]
   },
   {
     "id": "react-lesson-005",
@@ -113,7 +135,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Vite创建React项目\n\n这是Vite创建React项目的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Vite创建React项目的核心知识。",
+    "knowledgePoints": [
+      "rkp-011",
+      "rkp-012"
+    ]
   },
   {
     "id": "react-lesson-006",
@@ -136,7 +163,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 项目结构解析\n\n这是项目结构解析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了项目结构解析的核心知识。",
+    "knowledgePoints": [
+      "rkp-013",
+      "rkp-014"
+    ]
   },
   {
     "id": "react-lesson-007",
@@ -158,7 +190,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React开发者工具\n\n这是React开发者工具的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React开发者工具的核心知识。",
+    "knowledgePoints": [
+      "rkp-015",
+      "rkp-016"
+    ]
   },
   {
     "id": "react-lesson-008",
@@ -180,7 +217,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React学习路线规划\n\n这是React学习路线规划的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React学习路线规划的核心知识。",
+    "knowledgePoints": [
+      "rkp-017",
+      "rkp-018"
+    ]
   },
   {
     "id": "react-lesson-009",
@@ -203,7 +245,12 @@
       "组件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 第一个React组件\n\n这是第一个React组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了第一个React组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-019",
+      "rkp-020"
+    ]
   },
   {
     "id": "react-lesson-010",
@@ -224,7 +271,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React官方文档导读\n\n这是React官方文档导读的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React官方文档导读的核心知识。",
+    "knowledgePoints": [
+      "rkp-021"
+    ]
   },
   {
     "id": "react-lesson-011",
@@ -248,7 +299,13 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSX语法\n\n这是JSX语法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JSX语法的核心知识。",
+    "knowledgePoints": [
+      "rkp-022",
+      "rkp-023",
+      "rkp-024"
+    ]
   },
   {
     "id": "react-lesson-012",
@@ -271,7 +328,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSX表达式\n\n这是JSX表达式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JSX表达式的核心知识。",
+    "knowledgePoints": [
+      "rkp-025",
+      "rkp-026"
+    ]
   },
   {
     "id": "react-lesson-013",
@@ -294,7 +356,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSX条件输出\n\n这是JSX条件输出的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JSX条件输出的核心知识。",
+    "knowledgePoints": [
+      "rkp-027",
+      "rkp-028"
+    ]
   },
   {
     "id": "react-lesson-014",
@@ -317,7 +384,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSX列表输出\n\n这是JSX列表输出的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JSX列表输出的核心知识。",
+    "knowledgePoints": [
+      "rkp-029",
+      "rkp-030"
+    ]
   },
   {
     "id": "react-lesson-015",
@@ -340,7 +412,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 函数组件定义\n\n这是函数组件定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了函数组件定义的核心知识。",
+    "knowledgePoints": [
+      "rkp-031",
+      "rkp-032"
+    ]
   },
   {
     "id": "react-lesson-016",
@@ -363,7 +440,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件嵌套\n\n这是组件嵌套的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件嵌套的核心知识。",
+    "knowledgePoints": [
+      "rkp-033",
+      "rkp-034"
+    ]
   },
   {
     "id": "react-lesson-017",
@@ -386,7 +468,12 @@
       "组件化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件复用思维\n\n这是组件复用思维的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件复用思维的核心知识。",
+    "knowledgePoints": [
+      "rkp-035",
+      "rkp-036"
+    ]
   },
   {
     "id": "react-lesson-018",
@@ -409,7 +496,12 @@
       "组件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Fragment与空标签\n\n这是Fragment与空标签的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Fragment与空标签的核心知识。",
+    "knowledgePoints": [
+      "rkp-037",
+      "rkp-038"
+    ]
   },
   {
     "id": "react-lesson-019",
@@ -432,7 +524,12 @@
       "css"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# className与样式\n\n这是className与样式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了className与样式的核心知识。",
+    "knowledgePoints": [
+      "rkp-039",
+      "rkp-040"
+    ]
   },
   {
     "id": "react-lesson-020",
@@ -454,7 +551,11 @@
       "css"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 内联样式\n\n这是内联样式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了内联样式的核心知识。",
+    "knowledgePoints": [
+      "rkp-041"
+    ]
   },
   {
     "id": "react-lesson-021",
@@ -476,7 +577,11 @@
       "css"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# CSS Modules\n\n这是CSS Modules的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了CSS Modules的核心知识。",
+    "knowledgePoints": [
+      "rkp-042"
+    ]
   },
   {
     "id": "react-lesson-022",
@@ -499,7 +604,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Tailwind与React\n\n这是Tailwind与React的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Tailwind与React的核心知识。",
+    "knowledgePoints": [
+      "rkp-043",
+      "rkp-044"
+    ]
   },
   {
     "id": "react-lesson-023",
@@ -521,7 +631,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件命名规范\n\n这是组件命名规范的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件命名规范的核心知识。",
+    "knowledgePoints": [
+      "rkp-045"
+    ]
   },
   {
     "id": "react-lesson-024",
@@ -544,7 +658,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# JSX注意事项\n\n这是JSX注意事项的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了JSX注意事项的核心知识。",
+    "knowledgePoints": [
+      "rkp-046",
+      "rkp-047"
+    ]
   },
   {
     "id": "react-lesson-025",
@@ -567,7 +686,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# props基础\n\n这是props基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了props基础的核心知识。",
+    "knowledgePoints": [
+      "rkp-048",
+      "rkp-049"
+    ]
   },
   {
     "id": "react-lesson-026",
@@ -590,7 +714,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# props类型与默认值\n\n这是props类型与默认值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了props类型与默认值的核心知识。",
+    "knowledgePoints": [
+      "rkp-050",
+      "rkp-051"
+    ]
   },
   {
     "id": "react-lesson-027",
@@ -613,7 +742,12 @@
       "props"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# children插槽\n\n这是children插槽的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了children插槽的核心知识。",
+    "knowledgePoints": [
+      "rkp-052",
+      "rkp-053"
+    ]
   },
   {
     "id": "react-lesson-028",
@@ -635,7 +769,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# props逐层传递\n\n这是props逐层传递的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了props逐层传递的核心知识。",
+    "knowledgePoints": [
+      "rkp-054"
+    ]
   },
   {
     "id": "react-lesson-029",
@@ -658,7 +796,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件通信方式\n\n这是组件通信方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件通信方式的核心知识。",
+    "knowledgePoints": [
+      "rkp-055",
+      "rkp-056"
+    ]
   },
   {
     "id": "react-lesson-030",
@@ -681,7 +824,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 状态提升\n\n这是状态提升的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了状态提升的核心知识。",
+    "knowledgePoints": [
+      "rkp-057",
+      "rkp-058"
+    ]
   },
   {
     "id": "react-lesson-031",
@@ -704,7 +852,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Context简介\n\n这是Context简介的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Context简介的核心知识。",
+    "knowledgePoints": [
+      "rkp-059",
+      "rkp-060"
+    ]
   },
   {
     "id": "react-lesson-032",
@@ -727,7 +880,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useContext基本用法\n\n这是useContext基本用法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useContext基本用法的核心知识。",
+    "knowledgePoints": [
+      "rkp-061",
+      "rkp-062"
+    ]
   },
   {
     "id": "react-lesson-033",
@@ -750,7 +908,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Provider模式\n\n这是Provider模式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Provider模式的核心知识。",
+    "knowledgePoints": [
+      "rkp-063",
+      "rkp-064"
+    ]
   },
   {
     "id": "react-lesson-034",
@@ -773,7 +936,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组合vs继承\n\n这是组合vs继承的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组合vs继承的核心知识。",
+    "knowledgePoints": [
+      "rkp-065",
+      "rkp-066"
+    ]
   },
   {
     "id": "react-lesson-035",
@@ -795,7 +963,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# render props模式\n\n这是render props模式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了render props模式的核心知识。",
+    "knowledgePoints": [
+      "rkp-067"
+    ]
   },
   {
     "id": "react-lesson-036",
@@ -817,7 +989,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件通信最佳实践\n\n这是组件通信最佳实践的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件通信最佳实践的核心知识。",
+    "knowledgePoints": [
+      "rkp-068"
+    ]
   },
   {
     "id": "react-lesson-037",
@@ -841,7 +1017,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useState入门\n\n这是useState入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useState入门的核心知识。",
+    "knowledgePoints": [
+      "rkp-069",
+      "rkp-070"
+    ]
   },
   {
     "id": "react-lesson-038",
@@ -865,7 +1046,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useState更新机制\n\n这是useState更新机制的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useState更新机制的核心知识。",
+    "knowledgePoints": [
+      "rkp-071",
+      "rkp-072"
+    ]
   },
   {
     "id": "react-lesson-039",
@@ -889,7 +1075,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 状态不可变性\n\n这是状态不可变性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了状态不可变性的核心知识。",
+    "knowledgePoints": [
+      "rkp-073",
+      "rkp-074"
+    ]
   },
   {
     "id": "react-lesson-040",
@@ -912,7 +1103,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 对象状态\n\n这是对象状态的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了对象状态的核心知识。",
+    "knowledgePoints": [
+      "rkp-075",
+      "rkp-076"
+    ]
   },
   {
     "id": "react-lesson-041",
@@ -935,7 +1131,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数组状态\n\n这是数组状态的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数组状态的核心知识。",
+    "knowledgePoints": [
+      "rkp-077",
+      "rkp-078"
+    ]
   },
   {
     "id": "react-lesson-042",
@@ -958,7 +1159,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 事件绑定\n\n这是事件绑定的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了事件绑定的核心知识。",
+    "knowledgePoints": [
+      "rkp-079",
+      "rkp-080"
+    ]
   },
   {
     "id": "react-lesson-043",
@@ -981,7 +1187,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 事件参数传递\n\n这是事件参数传递的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了事件参数传递的核心知识。",
+    "knowledgePoints": [
+      "rkp-081",
+      "rkp-082"
+    ]
   },
   {
     "id": "react-lesson-044",
@@ -1004,7 +1215,12 @@
       "state"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# setState异步性\n\n这是setState异步性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了setState异步性的核心知识。",
+    "knowledgePoints": [
+      "rkp-083",
+      "rkp-084"
+    ]
   },
   {
     "id": "react-lesson-045",
@@ -1027,7 +1243,12 @@
       "state"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 函数式更新\n\n这是函数式更新的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了函数式更新的核心知识。",
+    "knowledgePoints": [
+      "rkp-085",
+      "rkp-086"
+    ]
   },
   {
     "id": "react-lesson-046",
@@ -1049,7 +1270,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 状态与UI关系\n\n这是状态与UI关系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了状态与UI关系的核心知识。",
+    "knowledgePoints": [
+      "rkp-087"
+    ]
   },
   {
     "id": "react-lesson-047",
@@ -1071,7 +1296,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 多个state管理\n\n这是多个state管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了多个state管理的核心知识。",
+    "knowledgePoints": [
+      "rkp-088"
+    ]
   },
   {
     "id": "react-lesson-048",
@@ -1094,7 +1323,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useReducer入门\n\n这是useReducer入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useReducer入门的核心知识。",
+    "knowledgePoints": [
+      "rkp-089",
+      "rkp-090"
+    ]
   },
   {
     "id": "react-lesson-049",
@@ -1117,7 +1351,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# reducer模式\n\n这是reducer模式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了reducer模式的核心知识。",
+    "knowledgePoints": [
+      "rkp-091",
+      "rkp-092"
+    ]
   },
   {
     "id": "react-lesson-050",
@@ -1140,7 +1379,11 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useStatevsuseReducer\n\n这是useStatevsuseReducer的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useStatevsuseReducer的核心知识。",
+    "knowledgePoints": [
+      "rkp-093"
+    ]
   },
   {
     "id": "react-lesson-051",
@@ -1169,7 +1412,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 条件渲染-if\n\n这是条件渲染-if的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了条件渲染-if的核心知识。",
+    "knowledgePoints": [
+      "rkp-094",
+      "rkp-095"
+    ]
   },
   {
     "id": "react-lesson-052",
@@ -1198,7 +1446,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 条件渲染-三元运算符\n\n这是条件渲染-三元运算符的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了条件渲染-三元运算符的核心知识。",
+    "knowledgePoints": [
+      "rkp-096",
+      "rkp-097"
+    ]
   },
   {
     "id": "react-lesson-053",
@@ -1227,7 +1480,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 条件渲染-逻辑与\n\n这是条件渲染-逻辑与的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了条件渲染-逻辑与的核心知识。",
+    "knowledgePoints": [
+      "rkp-098",
+      "rkp-099"
+    ]
   },
   {
     "id": "react-lesson-054",
@@ -1256,7 +1514,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 列表渲染-map\n\n这是列表渲染-map的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了列表渲染-map的核心知识。",
+    "knowledgePoints": [
+      "rkp-100",
+      "rkp-101"
+    ]
   },
   {
     "id": "react-lesson-055",
@@ -1286,7 +1549,13 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# key的作用\n\n这是key的作用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了key的作用的核心知识。",
+    "knowledgePoints": [
+      "rkp-102",
+      "rkp-103",
+      "rkp-104"
+    ]
   },
   {
     "id": "react-lesson-056",
@@ -1315,7 +1584,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 列表过滤与排序\n\n这是列表过滤与排序的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了列表过滤与排序的核心知识。",
+    "knowledgePoints": [
+      "rkp-105",
+      "rkp-106"
+    ]
   },
   {
     "id": "react-lesson-057",
@@ -1343,7 +1617,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 条件渲染最佳实践\n\n这是条件渲染最佳实践的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了条件渲染最佳实践的核心知识。",
+    "knowledgePoints": [
+      "rkp-107"
+    ]
   },
   {
     "id": "react-lesson-058",
@@ -1371,7 +1649,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 列表渲染最佳实践\n\n这是列表渲染最佳实践的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了列表渲染最佳实践的核心知识。",
+    "knowledgePoints": [
+      "rkp-108"
+    ]
   },
   {
     "id": "react-lesson-059",
@@ -1399,7 +1681,11 @@
       "组件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Fragment与列表\n\n这是Fragment与列表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Fragment与列表的核心知识。",
+    "knowledgePoints": [
+      "rkp-109"
+    ]
   },
   {
     "id": "react-lesson-060",
@@ -1427,7 +1713,11 @@
       "组件"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 空状态处理\n\n这是空状态处理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了空状态处理的核心知识。",
+    "knowledgePoints": [
+      "rkp-110"
+    ]
   },
   {
     "id": "react-lesson-061",
@@ -1457,7 +1747,13 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 受控组件\n\n这是受控组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了受控组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-111",
+      "rkp-112",
+      "rkp-113"
+    ]
   },
   {
     "id": "react-lesson-062",
@@ -1487,7 +1783,12 @@
       "表单"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单输入绑定\n\n这是表单输入绑定的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了表单输入绑定的核心知识。",
+    "knowledgePoints": [
+      "rkp-114",
+      "rkp-115"
+    ]
   },
   {
     "id": "react-lesson-063",
@@ -1516,7 +1817,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# textarea与select\n\n这是textarea与select的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了textarea与select的核心知识。",
+    "knowledgePoints": [
+      "rkp-116",
+      "rkp-117"
+    ]
   },
   {
     "id": "react-lesson-064",
@@ -1545,7 +1851,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 复选框与单选\n\n这是复选框与单选的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了复选框与单选的核心知识。",
+    "knowledgePoints": [
+      "rkp-118",
+      "rkp-119"
+    ]
   },
   {
     "id": "react-lesson-065",
@@ -1574,7 +1885,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 非受控组件\n\n这是非受控组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了非受控组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-120",
+      "rkp-121"
+    ]
   },
   {
     "id": "react-lesson-066",
@@ -1604,7 +1920,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useRef获取DOM\n\n这是useRef获取DOM的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useRef获取DOM的核心知识。",
+    "knowledgePoints": [
+      "rkp-122",
+      "rkp-123"
+    ]
   },
   {
     "id": "react-lesson-067",
@@ -1633,7 +1954,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单校验基础\n\n这是表单校验基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了表单校验基础的核心知识。",
+    "knowledgePoints": [
+      "rkp-124",
+      "rkp-125"
+    ]
   },
   {
     "id": "react-lesson-068",
@@ -1662,7 +1988,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 实时校验\n\n这是实时校验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了实时校验的核心知识。",
+    "knowledgePoints": [
+      "rkp-126",
+      "rkp-127"
+    ]
   },
   {
     "id": "react-lesson-069",
@@ -1691,7 +2022,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 提交处理\n\n这是提交处理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了提交处理的核心知识。",
+    "knowledgePoints": [
+      "rkp-128",
+      "rkp-129"
+    ]
   },
   {
     "id": "react-lesson-070",
@@ -1721,7 +2057,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单组件封装\n\n这是表单组件封装的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了表单组件封装的核心知识。",
+    "knowledgePoints": [
+      "rkp-130",
+      "rkp-131"
+    ]
   },
   {
     "id": "react-lesson-071",
@@ -1744,7 +2085,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useEffect基础\n\n这是useEffect基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useEffect基础的核心知识。",
+    "knowledgePoints": [
+      "rkp-132",
+      "rkp-133"
+    ]
   },
   {
     "id": "react-lesson-072",
@@ -1768,7 +2114,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 依赖数组\n\n这是依赖数组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了依赖数组的核心知识。",
+    "knowledgePoints": [
+      "rkp-134",
+      "rkp-135"
+    ]
   },
   {
     "id": "react-lesson-073",
@@ -1791,7 +2142,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 空依赖\n\n这是空依赖的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了空依赖的核心知识。",
+    "knowledgePoints": [
+      "rkp-136",
+      "rkp-137"
+    ]
   },
   {
     "id": "react-lesson-074",
@@ -1814,7 +2170,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 清理函数\n\n这是清理函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了清理函数的核心知识。",
+    "knowledgePoints": [
+      "rkp-138",
+      "rkp-139"
+    ]
   },
   {
     "id": "react-lesson-075",
@@ -1838,7 +2199,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据获取\n\n这是数据获取的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据获取的核心知识。",
+    "knowledgePoints": [
+      "rkp-140",
+      "rkp-141"
+    ]
   },
   {
     "id": "react-lesson-076",
@@ -1862,7 +2228,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# loading状态\n\n这是loading状态的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了loading状态的核心知识。",
+    "knowledgePoints": [
+      "rkp-142",
+      "rkp-143"
+    ]
   },
   {
     "id": "react-lesson-077",
@@ -1886,7 +2257,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# error状态\n\n这是error状态的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了error状态的核心知识。",
+    "knowledgePoints": [
+      "rkp-144",
+      "rkp-145"
+    ]
   },
   {
     "id": "react-lesson-078",
@@ -1909,7 +2285,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 竞态条件\n\n这是竞态条件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了竞态条件的核心知识。",
+    "knowledgePoints": [
+      "rkp-146",
+      "rkp-147"
+    ]
   },
   {
     "id": "react-lesson-079",
@@ -1932,7 +2313,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件生命周期思维\n\n这是组件生命周期思维的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件生命周期思维的核心知识。",
+    "knowledgePoints": [
+      "rkp-148",
+      "rkp-149"
+    ]
   },
   {
     "id": "react-lesson-080",
@@ -1955,7 +2341,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useLayoutEffect\n\n这是useLayoutEffect的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useLayoutEffect的核心知识。",
+    "knowledgePoints": [
+      "rkp-150",
+      "rkp-151"
+    ]
   },
   {
     "id": "react-lesson-081",
@@ -1978,7 +2369,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useEffect常见陷阱\n\n这是useEffect常见陷阱的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useEffect常见陷阱的核心知识。",
+    "knowledgePoints": [
+      "rkp-152",
+      "rkp-153"
+    ]
   },
   {
     "id": "react-lesson-082",
@@ -2001,7 +2397,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useEffect最佳实践\n\n这是useEffect最佳实践的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useEffect最佳实践的核心知识。",
+    "knowledgePoints": [
+      "rkp-154",
+      "rkp-155"
+    ]
   },
   {
     "id": "react-lesson-083",
@@ -2025,7 +2426,13 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 自定义Hook基础\n\n这是自定义Hook基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了自定义Hook基础的核心知识。",
+    "knowledgePoints": [
+      "rkp-156",
+      "rkp-157",
+      "rkp-158"
+    ]
   },
   {
     "id": "react-lesson-084",
@@ -2048,7 +2455,12 @@
       "localStorage"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useLocalStorage\n\n这是useLocalStorage的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useLocalStorage的核心知识。",
+    "knowledgePoints": [
+      "rkp-159",
+      "rkp-160"
+    ]
   },
   {
     "id": "react-lesson-085",
@@ -2071,7 +2483,12 @@
       "fetch"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useFetch\n\n这是useFetch的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useFetch的核心知识。",
+    "knowledgePoints": [
+      "rkp-161",
+      "rkp-162"
+    ]
   },
   {
     "id": "react-lesson-086",
@@ -2093,7 +2510,12 @@
       "自定义hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useDebounce\n\n这是useDebounce的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useDebounce的核心知识。",
+    "knowledgePoints": [
+      "rkp-163",
+      "rkp-164"
+    ]
   },
   {
     "id": "react-lesson-087",
@@ -2115,7 +2537,12 @@
       "自定义hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useToggle\n\n这是useToggle的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useToggle的核心知识。",
+    "knowledgePoints": [
+      "rkp-165",
+      "rkp-166"
+    ]
   },
   {
     "id": "react-lesson-088",
@@ -2137,7 +2564,11 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 自定义Hook命名\n\n这是自定义Hook命名的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了自定义Hook命名的核心知识。",
+    "knowledgePoints": [
+      "rkp-167"
+    ]
   },
   {
     "id": "react-lesson-089",
@@ -2159,7 +2590,11 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Hook参数与返回值\n\n这是Hook参数与返回值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Hook参数与返回值的核心知识。",
+    "knowledgePoints": [
+      "rkp-168"
+    ]
   },
   {
     "id": "react-lesson-090",
@@ -2181,7 +2616,12 @@
       "自定义hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组合自定义Hook\n\n这是组合自定义Hook的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组合自定义Hook的核心知识。",
+    "knowledgePoints": [
+      "rkp-169",
+      "rkp-170"
+    ]
   },
   {
     "id": "react-lesson-091",
@@ -2203,7 +2643,11 @@
       "测试"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 自定义Hook测试\n\n这是自定义Hook测试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了自定义Hook测试的核心知识。",
+    "knowledgePoints": [
+      "rkp-171"
+    ]
   },
   {
     "id": "react-lesson-092",
@@ -2226,7 +2670,12 @@
       "hooks"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 自定义Hook最佳实践\n\n这是自定义Hook最佳实践的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了自定义Hook最佳实践的核心知识。",
+    "knowledgePoints": [
+      "rkp-172",
+      "rkp-173"
+    ]
   },
   {
     "id": "react-lesson-093",
@@ -2249,7 +2698,12 @@
       "路由"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React Router概述\n\n这是React Router概述的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React Router概述的核心知识。",
+    "knowledgePoints": [
+      "rkp-174",
+      "rkp-175"
+    ]
   },
   {
     "id": "react-lesson-094",
@@ -2272,7 +2726,12 @@
       "browserRouter"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# BrowserRouter配置\n\n这是BrowserRouter配置的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了BrowserRouter配置的核心知识。",
+    "knowledgePoints": [
+      "rkp-176",
+      "rkp-177"
+    ]
   },
   {
     "id": "react-lesson-095",
@@ -2295,7 +2754,12 @@
       "路由"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Route与Routes\n\n这是Route与Routes的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Route与Routes的核心知识。",
+    "knowledgePoints": [
+      "rkp-178",
+      "rkp-179"
+    ]
   },
   {
     "id": "react-lesson-096",
@@ -2319,7 +2783,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Link与NavLink\n\n这是Link与NavLink的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Link与NavLink的核心知识。",
+    "knowledgePoints": [
+      "rkp-180",
+      "rkp-181"
+    ]
   },
   {
     "id": "react-lesson-097",
@@ -2342,7 +2811,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useNavigate编程导航\n\n这是useNavigate编程导航的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useNavigate编程导航的核心知识。",
+    "knowledgePoints": [
+      "rkp-182",
+      "rkp-183"
+    ]
   },
   {
     "id": "react-lesson-098",
@@ -2366,7 +2840,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useParams路由参数\n\n这是useParams路由参数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useParams路由参数的核心知识。",
+    "knowledgePoints": [
+      "rkp-184",
+      "rkp-185"
+    ]
   },
   {
     "id": "react-lesson-099",
@@ -2389,7 +2868,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useLocation\n\n这是useLocation的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useLocation的核心知识。",
+    "knowledgePoints": [
+      "rkp-186",
+      "rkp-187"
+    ]
   },
   {
     "id": "react-lesson-100",
@@ -2412,7 +2896,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 嵌套路由\n\n这是嵌套路由的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了嵌套路由的核心知识。",
+    "knowledgePoints": [
+      "rkp-188",
+      "rkp-189"
+    ]
   },
   {
     "id": "react-lesson-101",
@@ -2435,7 +2924,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 路由守卫\n\n这是路由守卫的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了路由守卫的核心知识。",
+    "knowledgePoints": [
+      "rkp-190",
+      "rkp-191"
+    ]
   },
   {
     "id": "react-lesson-102",
@@ -2457,7 +2951,11 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 404页面\n\n这是404页面的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了404页面的核心知识。",
+    "knowledgePoints": [
+      "rkp-192"
+    ]
   },
   {
     "id": "react-lesson-103",
@@ -2480,7 +2978,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 路由懒加载\n\n这是路由懒加载的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了路由懒加载的核心知识。",
+    "knowledgePoints": [
+      "rkp-193",
+      "rkp-194"
+    ]
   },
   {
     "id": "react-lesson-104",
@@ -2503,7 +3006,12 @@
       "路由"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React Router最佳实践\n\n这是React Router最佳实践的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React Router最佳实践的核心知识。",
+    "knowledgePoints": [
+      "rkp-195",
+      "rkp-196"
+    ]
   },
   {
     "id": "react-lesson-105",
@@ -2532,7 +3040,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件设计原则\n\n这是组件设计原则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件设计原则的核心知识。",
+    "knowledgePoints": [
+      "rkp-197",
+      "rkp-198"
+    ]
   },
   {
     "id": "react-lesson-106",
@@ -2561,7 +3074,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 单一职责\n\n这是单一职责的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了单一职责的核心知识。",
+    "knowledgePoints": [
+      "rkp-199",
+      "rkp-200"
+    ]
   },
   {
     "id": "react-lesson-107",
@@ -2590,7 +3108,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 目录结构组织\n\n这是目录结构组织的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了目录结构组织的核心知识。",
+    "knowledgePoints": [
+      "rkp-201",
+      "rkp-202"
+    ]
   },
   {
     "id": "react-lesson-108",
@@ -2619,7 +3142,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 样式组织方案\n\n这是样式组织方案的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了样式组织方案的核心知识。",
+    "knowledgePoints": [
+      "rkp-203",
+      "rkp-204"
+    ]
   },
   {
     "id": "react-lesson-109",
@@ -2648,7 +3176,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 页面组件vs通用组件\n\n这是页面组件vs通用组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了页面组件vs通用组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-205",
+      "rkp-206"
+    ]
   },
   {
     "id": "react-lesson-110",
@@ -2677,7 +3210,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件props设计\n\n这是组件props设计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件props设计的核心知识。",
+    "knowledgePoints": [
+      "rkp-207"
+    ]
   },
   {
     "id": "react-lesson-111",
@@ -2706,7 +3243,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件状态设计\n\n这是组件状态设计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件状态设计的核心知识。",
+    "knowledgePoints": [
+      "rkp-208"
+    ]
   },
   {
     "id": "react-lesson-112",
@@ -2735,7 +3276,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件提取与重构\n\n这是组件提取与重构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件提取与重构的核心知识。",
+    "knowledgePoints": [
+      "rkp-209",
+      "rkp-210"
+    ]
   },
   {
     "id": "react-lesson-113",
@@ -2763,7 +3309,11 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 高阶组件\n\n这是高阶组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了高阶组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-211"
+    ]
   },
   {
     "id": "react-lesson-114",
@@ -2793,7 +3343,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件复用模式\n\n这是组件复用模式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件复用模式的核心知识。",
+    "knowledgePoints": [
+      "rkp-212",
+      "rkp-213"
+    ]
   },
   {
     "id": "react-lesson-115",
@@ -2816,7 +3371,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# fetch基础回顾\n\n这是fetch基础回顾的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了fetch基础回顾的核心知识。",
+    "knowledgePoints": [
+      "rkp-214",
+      "rkp-215"
+    ]
   },
   {
     "id": "react-lesson-116",
@@ -2840,7 +3400,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# useEffect加载数据\n\n这是useEffect加载数据的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了useEffect加载数据的核心知识。",
+    "knowledgePoints": [
+      "rkp-216",
+      "rkp-217"
+    ]
   },
   {
     "id": "react-lesson-117",
@@ -2863,7 +3428,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# loading状态管理\n\n这是loading状态管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了loading状态管理的核心知识。",
+    "knowledgePoints": [
+      "rkp-218",
+      "rkp-219"
+    ]
   },
   {
     "id": "react-lesson-118",
@@ -2886,7 +3456,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# error状态管理\n\n这是error状态管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了error状态管理的核心知识。",
+    "knowledgePoints": [
+      "rkp-220",
+      "rkp-221"
+    ]
   },
   {
     "id": "react-lesson-119",
@@ -2910,7 +3485,12 @@
       "数据加载"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据展示组件\n\n这是数据展示组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据展示组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-222",
+      "rkp-223"
+    ]
   },
   {
     "id": "react-lesson-120",
@@ -2934,7 +3514,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 搜索过滤实现\n\n这是搜索过滤实现的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了搜索过滤实现的核心知识。",
+    "knowledgePoints": [
+      "rkp-224",
+      "rkp-225"
+    ]
   },
   {
     "id": "react-lesson-121",
@@ -2958,7 +3543,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 静态JSON加载本地\n\n这是静态JSON加载本地的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了静态JSON加载本地的核心知识。",
+    "knowledgePoints": [
+      "rkp-226",
+      "rkp-227"
+    ]
   },
   {
     "id": "react-lesson-122",
@@ -2981,7 +3571,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据缓存策略\n\n这是数据缓存策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据缓存策略的核心知识。",
+    "knowledgePoints": [
+      "rkp-228",
+      "rkp-229"
+    ]
   },
   {
     "id": "react-lesson-123",
@@ -3004,7 +3599,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 错误边界\n\n这是错误边界的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了错误边界的核心知识。",
+    "knowledgePoints": [
+      "rkp-230",
+      "rkp-231"
+    ]
   },
   {
     "id": "react-lesson-124",
@@ -3027,7 +3627,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Suspense简介\n\n这是Suspense简介的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Suspense简介的核心知识。",
+    "knowledgePoints": [
+      "rkp-232",
+      "rkp-233"
+    ]
   },
   {
     "id": "react-lesson-125",
@@ -3050,7 +3655,12 @@
       "状态管理"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Zustand入门\n\n这是Zustand入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Zustand入门的核心知识。",
+    "knowledgePoints": [
+      "rkp-234",
+      "rkp-235"
+    ]
   },
   {
     "id": "react-lesson-126",
@@ -3074,7 +3684,12 @@
       "状态管理"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# create创建store\n\n这是create创建store的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了create创建store的核心知识。",
+    "knowledgePoints": [
+      "rkp-236",
+      "rkp-237"
+    ]
   },
   {
     "id": "react-lesson-127",
@@ -3098,7 +3713,12 @@
       "setState"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 读取与修改状态\n\n这是读取与修改状态的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了读取与修改状态的核心知识。",
+    "knowledgePoints": [
+      "rkp-238",
+      "rkp-239"
+    ]
   },
   {
     "id": "react-lesson-128",
@@ -3121,7 +3741,12 @@
       "selector"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# selector选择器\n\n这是selector选择器的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了selector选择器的核心知识。",
+    "knowledgePoints": [
+      "rkp-240",
+      "rkp-241"
+    ]
   },
   {
     "id": "react-lesson-129",
@@ -3144,7 +3769,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 组件中使用store\n\n这是组件中使用store的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了组件中使用store的核心知识。",
+    "knowledgePoints": [
+      "rkp-242",
+      "rkp-243"
+    ]
   },
   {
     "id": "react-lesson-130",
@@ -3167,7 +3797,12 @@
       "状态管理"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 异步操作\n\n这是异步操作的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了异步操作的核心知识。",
+    "knowledgePoints": [
+      "rkp-244",
+      "rkp-245"
+    ]
   },
   {
     "id": "react-lesson-131",
@@ -3190,7 +3825,12 @@
       "持久化"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 持久化中间件\n\n这是持久化中间件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了持久化中间件的核心知识。",
+    "knowledgePoints": [
+      "rkp-246",
+      "rkp-247"
+    ]
   },
   {
     "id": "react-lesson-132",
@@ -3212,7 +3852,11 @@
       "devtools"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# devtools中间件\n\n这是devtools中间件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了devtools中间件的核心知识。",
+    "knowledgePoints": [
+      "rkp-248"
+    ]
   },
   {
     "id": "react-lesson-133",
@@ -3235,7 +3879,12 @@
       "store"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 多个store拆分\n\n这是多个store拆分的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了多个store拆分的核心知识。",
+    "knowledgePoints": [
+      "rkp-249",
+      "rkp-250"
+    ]
   },
   {
     "id": "react-lesson-134",
@@ -3259,7 +3908,12 @@
       "状态管理"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# ZustandvsContext\n\n这是ZustandvsContext的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了ZustandvsContext的核心知识。",
+    "knowledgePoints": [
+      "rkp-251",
+      "rkp-252"
+    ]
   },
   {
     "id": "react-lesson-135",
@@ -3282,7 +3936,12 @@
       "构建工具"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Vite配置文件\n\n这是Vite配置文件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Vite配置文件的核心知识。",
+    "knowledgePoints": [
+      "rkp-253",
+      "rkp-254"
+    ]
   },
   {
     "id": "react-lesson-136",
@@ -3305,7 +3964,12 @@
       "构建工具"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 生产构建\n\n这是生产构建的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了生产构建的核心知识。",
+    "knowledgePoints": [
+      "rkp-255",
+      "rkp-256"
+    ]
   },
   {
     "id": "react-lesson-137",
@@ -3329,7 +3993,12 @@
       "部署"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# base路径配置\n\n这是base路径配置的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了base路径配置的核心知识。",
+    "knowledgePoints": [
+      "rkp-257",
+      "rkp-258"
+    ]
   },
   {
     "id": "react-lesson-138",
@@ -3352,7 +4021,12 @@
       "环境变量"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 环境变量\n\n这是环境变量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了环境变量的核心知识。",
+    "knowledgePoints": [
+      "rkp-259",
+      "rkp-260"
+    ]
   },
   {
     "id": "react-lesson-139",
@@ -3375,7 +4049,12 @@
       "懒加载"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 代码分割\n\n这是代码分割的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了代码分割的核心知识。",
+    "knowledgePoints": [
+      "rkp-261",
+      "rkp-262"
+    ]
   },
   {
     "id": "react-lesson-140",
@@ -3398,7 +4077,12 @@
       "部署"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GitHub Pages部署\n\n这是GitHub Pages部署的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了GitHub Pages部署的核心知识。",
+    "knowledgePoints": [
+      "rkp-263",
+      "rkp-264"
+    ]
   },
   {
     "id": "react-lesson-141",
@@ -3421,7 +4105,12 @@
       "ci/cd"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# GitHub Actions\n\n这是GitHub Actions的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了GitHub Actions的核心知识。",
+    "knowledgePoints": [
+      "rkp-265",
+      "rkp-266"
+    ]
   },
   {
     "id": "react-lesson-142",
@@ -3444,7 +4133,12 @@
       "vite"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 部署常见问题\n\n这是部署常见问题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了部署常见问题的核心知识。",
+    "knowledgePoints": [
+      "rkp-267",
+      "rkp-268"
+    ]
   },
   {
     "id": "react-lesson-143",
@@ -3467,7 +4161,12 @@
       "vite"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 构建优化\n\n这是构建优化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了构建优化的核心知识。",
+    "knowledgePoints": [
+      "rkp-269",
+      "rkp-270"
+    ]
   },
   {
     "id": "react-lesson-144",
@@ -3490,7 +4189,12 @@
       "vite"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 性能分析\n\n这是性能分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了性能分析的核心知识。",
+    "knowledgePoints": [
+      "rkp-271",
+      "rkp-272"
+    ]
   },
   {
     "id": "react-lesson-145",
@@ -3513,7 +4217,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 项目规划\n\n这是项目规划的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了项目规划的核心知识。",
+    "knowledgePoints": [
+      "rkp-273",
+      "rkp-274"
+    ]
   },
   {
     "id": "react-lesson-146",
@@ -3537,7 +4246,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 计数器组件\n\n这是计数器组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了计数器组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-275",
+      "rkp-276"
+    ]
   },
   {
     "id": "react-lesson-147",
@@ -3561,7 +4275,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Todo列表\n\n这是Todo列表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Todo列表的核心知识。",
+    "knowledgePoints": [
+      "rkp-277",
+      "rkp-278"
+    ]
   },
   {
     "id": "react-lesson-148",
@@ -3585,7 +4304,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 商品卡片列表\n\n这是商品卡片列表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了商品卡片列表的核心知识。",
+    "knowledgePoints": [
+      "rkp-279",
+      "rkp-280"
+    ]
   },
   {
     "id": "react-lesson-149",
@@ -3609,7 +4333,12 @@
       "筛选"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 搜索与筛选\n\n这是搜索与筛选的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了搜索与筛选的核心知识。",
+    "knowledgePoints": [
+      "rkp-281",
+      "rkp-282"
+    ]
   },
   {
     "id": "react-lesson-150",
@@ -3633,7 +4362,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 模态框组件\n\n这是模态框组件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了模态框组件的核心知识。",
+    "knowledgePoints": [
+      "rkp-283",
+      "rkp-284"
+    ]
   },
   {
     "id": "react-lesson-151",
@@ -3657,7 +4391,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 表单页面\n\n这是表单页面的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了表单页面的核心知识。",
+    "knowledgePoints": [
+      "rkp-285",
+      "rkp-286"
+    ]
   },
   {
     "id": "react-lesson-152",
@@ -3681,7 +4420,12 @@
       "localStorage"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 收藏功能\n\n这是收藏功能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了收藏功能的核心知识。",
+    "knowledgePoints": [
+      "rkp-287",
+      "rkp-288"
+    ]
   },
   {
     "id": "react-lesson-153",
@@ -3705,7 +4449,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 课程列表页\n\n这是课程列表页的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了课程列表页的核心知识。",
+    "knowledgePoints": [
+      "rkp-289",
+      "rkp-290"
+    ]
   },
   {
     "id": "react-lesson-154",
@@ -3729,7 +4478,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 课程详情页\n\n这是课程详情页的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了课程详情页的核心知识。",
+    "knowledgePoints": [
+      "rkp-291",
+      "rkp-292"
+    ]
   },
   {
     "id": "react-lesson-155",
@@ -3752,7 +4506,12 @@
       "react-router"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# React Router页面\n\n这是React Router页面的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了React Router页面的核心知识。",
+    "knowledgePoints": [
+      "rkp-293",
+      "rkp-294"
+    ]
   },
   {
     "id": "react-lesson-156",
@@ -3776,7 +4535,12 @@
       "收藏"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# Zustand收藏夹\n\n这是Zustand收藏夹的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了Zustand收藏夹的核心知识。",
+    "knowledgePoints": [
+      "rkp-295",
+      "rkp-296"
+    ]
   },
   {
     "id": "react-lesson-157",
@@ -3800,7 +4564,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 数据加载页面\n\n这是数据加载页面的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了数据加载页面的核心知识。",
+    "knowledgePoints": [
+      "rkp-297",
+      "rkp-298"
+    ]
   },
   {
     "id": "react-lesson-158",
@@ -3824,7 +4593,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 错误处理页面\n\n这是错误处理页面的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了错误处理页面的核心知识。",
+    "knowledgePoints": [
+      "rkp-299",
+      "rkp-300"
+    ]
   },
   {
     "id": "react-lesson-159",
@@ -3848,7 +4622,12 @@
       "css"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 响应式适配\n\n这是响应式适配的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了响应式适配的核心知识。",
+    "knowledgePoints": [
+      "rkp-301",
+      "rkp-302"
+    ]
   },
   {
     "id": "react-lesson-160",
@@ -3872,7 +4651,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 个人作品集\n\n这是个人作品集的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了个人作品集的核心知识。",
+    "knowledgePoints": [
+      "rkp-303",
+      "rkp-304"
+    ]
   },
   {
     "id": "react-lesson-161",
@@ -3896,7 +4680,12 @@
       "react"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 部署上线\n\n这是部署上线的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了部署上线的核心知识。",
+    "knowledgePoints": [
+      "rkp-305",
+      "rkp-306"
+    ]
   },
   {
     "id": "react-lesson-162",
@@ -3919,7 +4708,12 @@
       "前端学习"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-01T00:00:00.000Z"
+    "updatedAt": "2026-07-01T00:00:00.000Z",
+    "contentMarkdown": "# 持续学习与进阶\n\n这是持续学习与进阶的讲义内容。\n\n## 要点\n\n- 核心概念\n- 实践方法\n\n## 总结\n\n本章介绍了持续学习与进阶的核心知识。",
+    "knowledgePoints": [
+      "rkp-307",
+      "rkp-308"
+    ]
   },
   {
     "id": "re-lesson-163",
@@ -3938,7 +4732,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#React Router 路由拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-164",
@@ -3957,7 +4753,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#组件拆分与项目结构拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-165",
@@ -3976,7 +4774,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#静态 JSON 数据加载拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-166",
@@ -3995,7 +4795,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Zustand 或轻量状态管理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-167",
@@ -4014,7 +4816,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Vite、构建与 GitHub Pages 部署拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-168",
@@ -4033,7 +4837,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#React 项目实战与作品集拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-169",
@@ -4052,7 +4858,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#React 入门与学习路线拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-170",
@@ -4071,7 +4879,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#JSX 与组件基础拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-171",
@@ -4090,7 +4900,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#props、children 与组件通信拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-172",
@@ -4109,7 +4921,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#state 与事件处理拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-173",
@@ -4128,7 +4942,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#条件渲染与列表渲染拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-174",
@@ -4147,7 +4963,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#表单处理与受控组件拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-175",
@@ -4166,7 +4984,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#useEffect 与副作用拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-176",
@@ -4185,7 +5005,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#自定义 Hooks拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-177",
@@ -4204,7 +5026,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#React Router 路由拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-178",
@@ -4223,7 +5047,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#组件拆分与项目结构拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-179",
@@ -4242,7 +5068,9 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#静态 JSON 数据加载拓展",
+    "knowledgePoints": []
   },
   {
     "id": "re-lesson-180",
@@ -4261,6 +5089,8 @@
       "X"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "contentMarkdown": "#Zustand 或轻量状态管理拓展",
+    "knowledgePoints": []
   }
 ]
